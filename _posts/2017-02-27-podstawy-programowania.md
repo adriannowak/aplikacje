@@ -1,9 +1,9 @@
 ---
-title: Podstawy programowania
+layout: post
+title: Podstawy programowania - T1. Pojęcia. Algorytmy.
 ---
-# Podstawy programowania
-(str. 9 - 24)
----
+
+Podręcznik str. 9 - 24
 
 ### Przykład na lekcji
  - Obliczenie pola trójkąta
@@ -27,10 +27,7 @@ W zeszycie przygotuj schemat algorymu w postaci listy kroków, pseudokodu i blok
  - liczba jest podzielna przez 9 [10,5]
 
  
- 
- 
- 
- ### Zadanie dodatkowe klasa 3D
+### Zadanie dodatkowe klasa 3D
 
  1. Zadanie 1.1 str. 25 [2,4,8]
  2. Zadanie 1.2 str. 25 [2]

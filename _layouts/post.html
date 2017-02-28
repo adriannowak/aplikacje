@@ -1,0 +1,50 @@
+--- 
+layout: default
+---
+
+<div class="tm-content-container">
+  <hr class="tm-grid-divider">
+  <div class="tm-middle uk-grid" data-uk-grid-match data-uk-grid-margin>
+    <div class="tm-main uk-width-medium-1-1">
+      <main class="tm-content">
+        <ul class="uk-breadcrumb">
+          <li><a href="/">Recent Articles</a></li>
+          <li>{{ page.title }}</li>
+        </ul>
+        <article class="uk-article">
+          <h1 class="uk-article-title">{{ page.title }}</h1>
+          <p class="uk-article-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+          {{ content }}
+        </article>
+
+        <!-- Post navigation -->
+        {% if site.post_navigation %}
+        <ul class="uk-pagination">
+          {% if page.previous.url %}
+          <li>
+            <a class="uk-button" href="{{ page.previous.url }}">
+              <i class="uk-icon-angle-double-left"></i>&nbsp;{{ page.previous.title }}
+            </a>
+          </li>
+          {% endif %}
+          {% if page.next.url %}
+          <li>
+            <a class="uk-button" href="{{ page.next.url }}">
+              {{ page.next.title }}&nbsp;<i class="uk-icon-angle-double-right"></i>
+            </a>
+          </li>
+          {% endif %}
+        </ul>
+        {% endif %}
+
+        <!-- Disqus 
+        {% if site.disqus_shortname %}
+        <div id="comments" class="uk-margin">
+          {% include disqus.html %}
+        </div>
+        {% endif %}
+	-->
+      </main>
+    </div>
+  </div>
+</div>

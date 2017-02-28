@@ -1,0 +1,20 @@
+<!DOCTYPE HTML>
+<html lang="en-US" dir="ltr" >
+
+{% include head.html %}
+
+<body class="tm-section-divider tm-sidebar-width-33">
+
+  <div class="uk-grid tm-wrapper" data-uk-grid-match>
+    {% include side-bar.html %}
+    <div class="uk-width-1-1 tm-content-wrapper tm-footer-true">
+      {% include nav-bar-mobile.html %}
+      {{ content }}
+      {% include footer.html %}
+    </div>
+  </div>
+
+  {% include off-canvas.html %}
+
+</body>
+</html>

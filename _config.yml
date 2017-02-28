@@ -1,0 +1,63 @@
+# Site settings
+# title: web application developer | allanchangcl
+name: clchangnet.github.io # your site name
+email: allan@clchang.net
+description: > # this means to ignore newlines until "baseurl:"
+ Personal Blog on web application development. Notes on learn to 
+ code in ruby on rails, erlang and anything else related to html code,
+ css, cloud computing and webservers
+
+# the subpath of your site, e.g. /blog/
+baseurl: "/"
+
+# the base hostname & protocol for your site
+url: "http://clchangnet.github.io"
+mywebsite: "http://clchang.net/about/"
+
+# Tags
+timezone:       Europe/Warsaw # eg. Asia/Kathmandu
+locale:         en_us # eg. en_us
+# baseurl:        "/base" # does not include hostname
+# url:            "http://yoursitename.com" # URL of site, include http://, do not include a trailing slash
+# name:           "your site name"
+# description:    "your site description"
+#icon:           /images/clchangdotnet-logo-003-300.png # /assets/img/icon.png [best 300px X 300px]
+author:
+  name:         Adrian Nowak    
+#  facebook:     clchangnet
+#  twitter:      clchangnet
+#  google_plus:  118387636159308776887
+# fb_admins:      your facebook profile id
+# fb_appid:       your facebook app id
+
+# Social
+#mobile: "tel:+60122956066"
+#twitter: "https://twitter.com/clchangnet"
+#facebook: "https://www.facebook.com/clchangnet"
+#google_plus: "http://plus.google.com/+clchangnet"
+#linkedin: "https://my.linkedin.com/pub/allan-chang/16/82b/104"
+#github: ""
+
+# Scripts
+#google_analytics: # Tracking ID, e.g. "UA-000000-01"
+#disqus_shortname: clchangnet
+
+# Localization strings
+str_continue_reading: "Continue reading"
+str_next: "Next"
+str_prev: "Prev"
+
+# PAGINATION
+paginate: 5
+paginate_path: "page:num"
+post_navigation: true
+
+# Build settings
+# markdown: kramdown
+# markdown: redcarpet
+# highlighter: pygments
+
+# prevent inserting ids into tags
+kramdown:
+  auto_ids: true
+gems: [jekyll-paginate]

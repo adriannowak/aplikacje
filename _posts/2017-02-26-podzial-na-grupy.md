@@ -1,3 +1,9 @@
+---
+title: Podział na grupy
+layout: post
+---
+Klasa 3E i 3D
+
 ### Grupa 3E
 
 1.	K. Kacper

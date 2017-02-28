@@ -1,0 +1,63 @@
+ul.clc-list li  {
+    position: relative;
+    margin-left:25px;
+}
+ul.clc-list i  {
+    position: absolute;
+    left: -25px;
+    top: 0px;
+}
+.uk-article-meta { display: none; }
+/*
+ * Margins
+ */
+* + h1,
+* + h2,
+* + h3,
+* + h4,
+* + h5,
+* + h6 {
+    margin-top: initial;
+}
+.uk-panel-hover {
+  background: #fff;
+}
+/* change social icons button background */
+.uk-icon-button:hover,
+.uk-icon-button:focus {
+  background-color: transparent;
+}
+/* change next previous buttons layout*/
+.uk-pagination > li > a,
+.uk-pagination > li > span {
+  padding: 0 12px;
+  line-height: 30px;
+  border-radius: 3px;
+}
+/* set side bar not to scroll */
+.tm-sidebar-wrapper .tm-sidebar-widget-container {
+  position: fixed;
+  width: 33%;
+  max-width: 478.5px;
+}
+/* change h1 a links to blue */
+.uk-article-title a {
+  color: #2089c0;
+}
+/* change article fonts to be larger */
+.uk-article p {
+  font: 300 18px / 26px 'Open Sans', Helvetica, Arial, sans-serif;
+}
+/* change pre code fonts to be larger */
+pre, code {
+  font: 14px / 18px Consolas, monospace, serif;
+}
+/* to use ``` does not generate pre in code css */
+:not(pre) > code {
+  font: 14px / 18px Consolas, monospace, serif;
+}
+
+img[src$="centerme"] {
+  display:block;
+  margin: 0 auto;
+}
