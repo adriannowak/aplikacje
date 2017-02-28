@@ -12,3 +12,19 @@
 10.	B. Patryk
 11.	W. Karol	
 12.	P. Alan
+
+
+### Grupa 3D
+
+1.	K. Jakub
+2.	K. Filip
+3.	W. Norbert
+4.	G. Eryk
+5.	G. Adrianna
+6.	Ł. Krzysztof
+7.	Ś. Kamil
+8.	W. Kacper
+9.  Z. Patryk
+10.	L. Ewa
+11.	W. Arkadiusz
+12.	K. Szymon
