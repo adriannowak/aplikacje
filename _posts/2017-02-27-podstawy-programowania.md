@@ -8,7 +8,7 @@ Podręcznik str. 9 - 24
 ### Przykład na lekcji
  - Obliczenie pola trójkąta
  - Potęgowanie liczb a^b
- - Algorytm euklidesa
+ - Algorytm Euklidesa
 
  
 ---
