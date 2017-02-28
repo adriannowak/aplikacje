@@ -16,7 +16,9 @@ title: Aplikacje internetowe
 
 
 ### Grupy
- * [Klasa 3E](http://aplikacje.vector.org.pl/grupy.html)
+ * [Podział na grupy](http://aplikacje.vector.org.pl/grupy.html)
+
+
 
 
 
