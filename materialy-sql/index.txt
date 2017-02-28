@@ -1,0 +1,41 @@
+Kurs SQL:
+
+Podstawy SQL
+Wprowadzenie do systemów zarządzania bazami danych (aktualizacja: 2016-09-16).
+Podstawy języka SQL
+Wyświetlanie zawartości tabeli (aktualizacja: 2016-09-27).
+Warunki w zapytaniach SQL (aktualizacja: 2016-10-05).
+Złączanie tabel (aktualizacja: 2016-10-24).
+Rodzaje zlączen (aktualizacja: 2016-10-24).
+Tabele jako zbiory (aktualizacja: 2016-11-18).
+Podzapytania w zapytaniach SELECT (aktualizacja: 2016-11-08).
+Wyrażenia regularne w języku SQL (aktualizacja: 2016-12-09).
+Wyszukiwanie pełnotekstowe (aktualizacja: 2016-12-09).
+Biblioteka języka SQL
+Wybrane funkcje i operatory jezyka SQL (a, b, c, d) (aktualizacja: 2016-12-12).
+Funkcje sterowania przepływem w MySQL (aktualizacja: 2016-12-12).
+Funkcje agregujące w języku SQL (aktualizacja: 2016-12-12).
+Grupowanie danych.
+Administracja SBD
+Użytkownicy i dostęp do danych.
+Zmienne i instrukcje sterujące w skryptach SQL.
+Funkcje użytkownika.
+Procedury składowane.
+Wyzwalacze.
+Transakcje.
+Blokowanie tabel.
+Poziomy izolowania transakcji.
+Tworzenie SBD
+Tworzenie bazy danych i tabel (aktualizacja: 2016-11-08).
+Indeksy w tabelach.
+Definiowanie ograniczeń do tabel.
+Wstawianie danych do tabel (aktualizacja: 2016-12-09).
+Podzapytania tworzące dane w tabeli.
+Widoki, czyli perspektywy.
+Modyfikowanie SBD
+Aktualizowanie danych w tabeli.
+Podzapytania aktualizujące dane w tabeli.
+Aktualizowanie struktury tabeli.
+Materiały zewnętrzne:
+
+http://www.w3schools.com/sql/default.asp

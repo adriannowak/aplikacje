@@ -2,7 +2,98 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4fee7e0d-f5a7-4597-aaa2-5ba3ee96d30b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/podstawy_programowania/t1.md" afterPath="$PROJECT_DIR$/podstawy_programowania/t1.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-js/E.14.3 - JavaScript - [1-1] Wprowadzenie do JavaScript.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-js/E.14.3 - JavaScript - [1-2] Zmienne, typy i operatory.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-js/E.14.3 - JavaScript - [1-3] Wiecej o operatorach.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-js/E.14.3 - JavaScript - [1-4] Instrukcje warunkowe.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-js/E.14.3 - JavaScript - [1-5] Petle.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-js/E.14.3 - JavaScript - [1-6] Tablice.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-js/E.14.3 - JavaScript - [1-7] Funkcje uzytkownika.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-js/E.14.3 - JavaScript - [2-2] Obiekty do obslugi liczb.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-js/E.14.3 - JavaScript - [2-3] Obiekt String.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-js/E.14.3 - JavaScript - [2-4] Obiekt Array.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-js/E.14.3 - JavaScript - [2-5] Obiekt RegExp.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-js/E.14.3 - JavaScript - [2-6] Inne obiekty JavaScript.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-js/E.14.3 - JavaScript - [3-2] JavaScript DOM - obiekt document.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-js/E.14.3 - JavaScript - [3-4] Obsluga zdarzen.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-js/E.14.3 - JavaScript - [3-5] Obsluga formularzy (1).pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-js/E.14.3 - JavaScript - [3-5] Obsluga formularzy.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-js/E.14.3 - JavaScript - [3-6] Praca z warstwami.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-js/E.14.3 - JavaScript - [3-7] JavaScript w praktyce.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-php/E.14.3 - PHP - [1-01] Wprowadzenie do jezyka PHP.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-php/E.14.3 - PHP - [1-02] Zmienne, typy i operatory.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-php/E.14.3 - PHP - [1-03] Instrukcje warunkowe.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-php/E.14.3 - PHP - [1-04] Petle.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-php/E.14.3 - PHP - [1-05] Tablice.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-php/E.14.3 - PHP - [1-06] Tablice systemowe.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-php/E.14.3 - PHP - [1-07] Dolaczanie plikow.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-php/E.14.3 - PHP - [2-01] Obsluga podstawowych kontrolek formularza.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-php/E.14.3 - PHP - [2-02] Obsluga kontrolek typu CHECKBOX i RADIO.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-php/E.14.3 - PHP - [2-03] Obsluga kontrolek typu SELECT.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-php/E.14.3 - PHP - [2-04] Obsluga kontrolek typu FILE.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-php/E.14.3 - PHP - [3-01] Tworzenie wlasnych funkcji.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-php/E.14.3 - PHP - [3-02] Funkcje obslugi liczb i zmiennych.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-php/E.14.3 - PHP - [3-03] Funkcje tekstowe.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-php/E.14.3 - PHP - [3-04] Funkcje obslugi tablic.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-php/E.14.3 - PHP - [3-05] Funkcje systemu plikow.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-php/E.14.3 - PHP - [3-06] Zaawansowane tworzenie wlasnych funkcji.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-php/E.14.3 - PHP - [4-01] Klasy i obiekty.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-php/E.14.3 - PHP - [4-02] Metody specjalne.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-php/E.14.3 - PHP - [4-03] Operacje na obiektach.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-php/E.14.3 - PHP - [4-04] Metody magiczne.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-php/E.14.3 - PHP - [4-05] Dziedziczenie i polimorfizm.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-php/E.14.3 - PHP - [5-01] Wyjatki oraz obsluga bledow i debugowanie.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-php/E.14.3 - PHP - [5-02] PHP i MySQL.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-php/E.14.3 - PHP - [5-03] PHP i PDO.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-php/E.14.3 - PHP - [5-04] Tworzenie klasy do obslugi MySQL.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-php/E.14.3 - PHP - [5-05] Wyrazenia regularne w PHP.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-php/E.14.3 - PHP - [5-06] Funkcje PHP wykorzystujace wyrazenia regularne.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-php/E.14.3 - PHP - [5-07] Podstawy generowania grafiki.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-php/E.14.3 - PHP - [5-08] Generowanie grafiki w praktyce.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-php/E.14.3 - PHP - [5-09] Zaawansowana obsluga plikow.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-php/E.14.3 - PHP - [5-10] Obsluga naglowkow HTTP i ciastek (cookie).pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-php/E.14.3 - PHP - [5-12] Sesje.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-php/E.14.3 - PHP - [5-13] Interfejs narodowy i wielojezyczny.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-php/E.14.3 - PHP - [5-14] Szablony WWW.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-php/E.14.3 - PHP - [5-15] Frameworki dla PHP.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-sql/E.14.2 - Podstawy - [11-1] Wprowadzenie do systemow zarzadzania bazami danych.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-sql/E.14.2 - SQL - [21-01] Wyswietlanie zawartosci tabeli.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-sql/E.14.2 - SQL - [21-02] Warunki w zapytaniach SQL.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-sql/E.14.2 - SQL - [21-03] Zlaczanie tabel.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-sql/E.14.2 - SQL - [21-04] Rodzaje zlaczen.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-sql/E.14.2 - SQL - [21-05] Tabele jako zbiory.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-sql/E.14.2 - SQL - [21-06] Podzapytania w zapytaniach SELECT.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-sql/E.14.2 - SQL - [21-07] Wyrazenia regularne w jezyku SQL.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-sql/E.14.2 - SQL - [21-08] Wyszukiwanie pelnotekstowe.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-sql/E.14.2 - SQL - [22-01] Wybrane funkcje i operatory jezyka SQL.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-sql/E.14.2 - SQL - [22-01a] Podstawowe operatory jezyka SQL.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-sql/E.14.2 - SQL - [22-01b] Funkcje numeryczne w jezyku SQL.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-sql/E.14.2 - SQL - [22-01c] Funkcje tekstowe w jezyku SQL.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-sql/E.14.2 - SQL - [22-01d] Pozostale operatory i funkcje jezyka SQL.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-sql/E.14.2 - SQL - [22-02] Funkcje sterowania przeplywem w MySQL.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-sql/E.14.2 - SQL - [22-03] Funkcje agregujace w jezyku SQL.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-sql/E.14.2 - SQL - [22-04] Grupowanie danych.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-sql/E.14.2 - SQL - [23-01] Tworzenie bazy danych i tabel.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-sql/E.14.2 - SQL - [23-02] Indeksy w tabelach.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-sql/E.14.2 - SQL - [23-03] Definiowanie ograniczen do tabel.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-sql/E.14.2 - SQL - [23-04] Wstawianie danych do tabel.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-sql/E.14.2 - SQL - [23-05] Podzapytania tworzace dane w tabeli.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-sql/E.14.2 - SQL - [23-06] Widoki, czyli perspektywy.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-sql/E.14.2 - SQL - [24-01] Aktualizowanie danych w tabeli.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-sql/E.14.2 - SQL - [24-02] Podzapytania aktualizujace dane w tabeli.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-sql/E.14.2 - SQL - [24-03] Aktualizowanie struktury tabeli.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-sql/E.14.2 - SQL - [25-01] Uzytkownicy i dostep do danych.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-sql/E.14.2 - SQL - [25-02] Zmienne i instrukcje sterujace w skryptach SQL.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-sql/E.14.2 - SQL - [25-03] Funkcje uzytkownika.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-sql/E.14.2 - SQL - [25-04] Procedury skladowane.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-sql/E.14.2 - SQL - [25-05] Wyzwalacze.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-sql/E.14.2 - SQL - [25-07] Blokowanie tabel.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-sql/E.14.2 - SQL - [25-08] Poziomy izolowania transakcji.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2017-02-18-jezyk-php-wprowadzenie.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-js/index.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-php/index.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/materialy-sql/index.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -30,12 +121,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="t1.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/podstawy_programowania/t1.md">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-02-18-jezyk-php-wprowadzenie.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-02-18-jezyk-php-wprowadzenie.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="388">
-                <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+              <first_editor relative-caret-position="198">
+                <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -43,34 +144,48 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="grupy.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grupy.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="450">
-                <caret line="25" column="8" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
-                <folding />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="index.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/materialy-php/index.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="52" column="38" lean-forward="false" selection-start-line="52" selection-start-column="38" selection-end-line="52" selection-end-column="38" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="432">
-                <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="index.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/materialy-js/index.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="558">
+              <caret line="36" column="52" lean-forward="false" selection-start-line="36" selection-start-column="52" selection-end-line="36" selection-end-column="52" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="t1.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/aplikacje_internetowe/t1.md">
+      <file leaf-file-name="index.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/materialy-sql/index.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="558">
+              <caret line="40" column="40" lean-forward="false" selection-start-line="40" selection-start-column="40" selection-end-line="40" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="11" column="39" lean-forward="false" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-02-26-podzial-na-grupy.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-02-26-podzial-na-grupy.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="0">
@@ -95,6 +210,10 @@
         <option value="$PROJECT_DIR$/grupy.md" />
         <option value="$PROJECT_DIR$/index.md" />
         <option value="$PROJECT_DIR$/podstawy_programowania/t1.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-02-18-jezyk-php-wprowadzenie.md" />
+        <option value="$PROJECT_DIR$/php/index.txt" />
+        <option value="$PROJECT_DIR$/materialy-js/index.txt" />
+        <option value="$PROJECT_DIR$/materialy-sql/index.txt" />
       </list>
     </option>
   </component>
@@ -103,6 +222,11 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="65" />
@@ -125,6 +249,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -147,7 +273,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="podstawy_programowania" />
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -161,14 +287,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="aplikacje_internetowe" />
+              <option name="myItemId" value="_posts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -256,6 +380,8 @@
       <workItem from="1488109952959" duration="1490000" />
       <workItem from="1488184455374" duration="3606000" />
       <workItem from="1488271115114" duration="2537000" />
+      <workItem from="1488305281567" duration="15000" />
+      <workItem from="1488305306286" duration="1654000" />
     </task>
     <task id="LOCAL-00001" summary="TEST MD">
       <created>1488106660066</created>
@@ -345,28 +471,28 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11553000" />
+    <option name="totallyTimeSpent" value="13222000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -393,51 +519,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/podstawy_programowania/t1.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grupy.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="18">
-            <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="324">
-            <caret line="18" column="9" lean-forward="false" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aplikacje_internetowe/t1.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CNAME">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -445,55 +527,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="252">
-            <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/podstawy_programowania/t1.md" />
+    <entry file="file://$PROJECT_DIR$/grupy.md" />
+    <entry file="file://$PROJECT_DIR$/index.md" />
+    <entry file="file://$PROJECT_DIR$/aplikacje_internetowe/t1.md" />
     <entry file="file://$PROJECT_DIR$/CNAME">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="23" lean-forward="true" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
+          <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aplikacje_internetowe/t1.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/podstawy_programowania/t1.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -505,7 +547,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aplikacje_internetowe/t1.md">
+    <entry file="file://$PROJECT_DIR$/podstawy_programowania/t1.md" />
+    <entry file="file://$PROJECT_DIR$/grupy.md" />
+    <entry file="file://$PROJECT_DIR$/index.md" />
+    <entry file="file://$PROJECT_DIR$/aplikacje_internetowe/t1.md" />
+    <entry file="file://$PROJECT_DIR$/CNAME">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.md" />
+    <entry file="file://$PROJECT_DIR$/CNAME">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="23" lean-forward="true" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aplikacje_internetowe/t1.md" />
+    <entry file="file://$PROJECT_DIR$/podstawy_programowania/t1.md" />
+    <entry file="file://$PROJECT_DIR$/index.md" />
+    <entry file="file://$PROJECT_DIR$/CNAME">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aplikacje_internetowe/t1.md" />
+    <entry file="file://$PROJECT_DIR$/grupy.md" />
+    <entry file="file://$PROJECT_DIR$/index.md" />
+    <entry file="file://$PROJECT_DIR$/podstawy_programowania/t1.md" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="39" lean-forward="false" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-02-26-podzial-na-grupy.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
@@ -515,49 +609,39 @@
           <second_editor />
         </state>
       </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-02-18-jezyk-php-wprowadzenie.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="198">
+            <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/materialy-php/index.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="52" column="38" lean-forward="false" selection-start-line="52" selection-start-column="38" selection-end-line="52" selection-end-column="38" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grupy.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="450">
-            <caret line="25" column="8" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="432">
-            <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+    <entry file="file://$PROJECT_DIR$/materialy-js/index.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="36" column="52" lean-forward="false" selection-start-line="36" selection-start-column="52" selection-end-line="36" selection-end-column="52" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/podstawy_programowania/t1.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="388">
-            <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
-            <folding />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/materialy-sql/index.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="40" column="40" lean-forward="false" selection-start-line="40" selection-start-column="40" selection-end-line="40" selection-end-column="40" />
+          <folding />
         </state>
       </provider>
     </entry>

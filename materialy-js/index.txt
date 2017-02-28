@@ -1,0 +1,37 @@
+Kurs JavaScript:
+
+Podstawy JavaScript
+Wprowadzenie do JavaScript.
+Zmienne, typy i operatory.
+Więcej o operatorach.
+Instrukcje warunkowe.
+Pętle.
+Tablice.
+Funkcje użytkownika.
+Biblioteka JavaScript
+Funkcje i obiekty globalne.
+Obiekty do obsługi liczb.
+Obiekt String.
+Obiekt Array.
+Obiekt RegExp.
+Inne obiekty JavaScript.
+JavaScript DOM
+Wprowadzenie do JavaScript DOM.
+JavaScript DOM - obiekt document.
+JavaScript DOM - pozostałe obiekty.
+Obsługa zdarzeń.
+Obsługa formularzy.
+Praca z warstwami.
+JavaScript w praktyce.
+AJAX (w planach)
+Biblioteka jQuery (w planach)
+Materiały zewnętrzne:
+
+http://webmaster.helion.pl/
+http://www.w3schools.com/
+http://krook.org/jsdom/
+http://www.dynamicdrive.com/
+Do pobrania:
+
+Ubuntu: "sudo apt-get install bluefish" albo apt:bluefish
+Windows: http://bluefish.openoffice.nl/download.html

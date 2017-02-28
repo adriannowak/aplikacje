@@ -1,0 +1,53 @@
+Kurs PHP:
+
+Podstawy PHP
+Wprowadzenie do języka PHP (ostatnia aktualizacja: 2016-09-27).
+Zmienne, typy i operatory (aktualizacja: 2016-09-16).
+Instrukcje warunkowe (aktualizacja: 2016-09-16).
+Pętle (aktualizacja: 2016-09-16).
+Tablice (aktualizacja: 2016-09-16).
+Tablice systemowe (aktualizacja: 2016-09-27).
+Dołączanie plików.
+Obsługa formularzy
+Obsługa podstawowych kontrolek formularza (aktualizacja: 2016-10-24).
+Obsługa kontrolek typu CHECKBOX i RADIO (aktualizacja: 2016-10-24).
+Obsługa kontrolek typu SELECT (aktualizacja: 2016-10-24).
+Obsługa kontrolek typu FILE.
+Programowanie proceduralne
+Tworzenie własnych funkcji (aktualizacja: 2016-11-08).
+Funkcje obsługi liczb i zmiennych.
+Funkcje tekstowe (aktualizacja: 2016-12-09).
+Funkcje obsługi tablic.
+Funkcje systemu plików.
+Zaawansowane tworzenie własnych funkcji.
+Programowanie obiektowe
+Klasy i obiekty (aktualizacja: 2016-11-16).
+Metody specjalne (aktualizacja: 2016-11-16).
+Operacje na obiektach (aktualizacja: 2016-12-09).
+Metody magiczne (aktualizacja: 2016-11-18).
+Dziedziczenie i polimorfizm (aktualizacja: 2016-11-18).
+PHP w praktyce
+Wyjątki oraz obsługa błędów i debugowanie.
+PHP i MySQL (aktualizacja: 2016-12-09).
+PHP i PDO.
+Tworzenie klasy do obsługi MySQL (aktualizacja: 2016-12-09).
+Wyrażenia regularne w PHP.
+Funkcje PHP wykorzystujące wyrażenia regularne.
+Podstawy generowania grafiki.
+Generowanie grafiki w praktyce.
+Zaawansowana obsługa plików.
+Obsługa nagłówków HTTP i ciastek (cookie).
+Bezpieczeństwo serwisów internetowych.
+Sesje (aktualizacja: 2016-12-09).
+Interfejs narodowy i wielojęzyczny.
+Szablony WWW.
+Frameworki dla PHP.
+Materiały zewnętrzne:
+
+http://php.net/manual/pl/
+http://www.w3schools.com/php/default.asp
+http://webmaster.helion.pl/index.php/kurs-php
+Do pobrania:
+
+Ubuntu: "sudo apt-get install apache2 mysql-server php5 phpmyadmin"
+Windows: http://www.wampserver.com/en/
