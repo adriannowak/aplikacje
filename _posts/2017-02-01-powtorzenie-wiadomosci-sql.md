@@ -8,7 +8,7 @@ Zebrane notatki z lekcji oraz wymagania
 
 ### Materiały
 
-Materiały [online](http://aplikacje.vector.org.pl/materialy-sql/) lub [tutaj](https://sites.google.com/view/irolniknysa/e-14-2/kurs-sql) plus ksiązka E.14
+Materiały [online](http://aplikacje.vector.org.pl/materialy-sql/) lub [tutaj](https://sites.google.com/view/irolniknysa/e-14-2/kurs-sql) + podręcznik E.14
 
 ### Zagadnienia
 
