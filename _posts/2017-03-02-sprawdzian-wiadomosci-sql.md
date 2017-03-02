@@ -13,12 +13,10 @@ Maksymalna liczba punktów: __29 pkt__
 - cel (>95%)
 
 
-Zadania praktyczne zweryfikuj na serwerze bazy danych.
+Zadania praktyczne zweryfikuj na serwerze bazy danych. Do polecenia dołącz otrzymany wynik na BD.
 
 Sprawdzian w formie zalacznika [doc](/pozostale/szablon-odpowiedzi-mysql-sprawdzian.doc) lub [odt](/pozostale/szablon-odpowiedzi-mysql-sprawdzian.odt)
-należy wysłać na adres __adrian@vector.org.pl__. 
+należy wysłać na moj adres e-mail.
 
 W tytule nalezy wpisac koniecznie __"[SPRAWDZIAN][KLASA] Imie i nazwisko"__ 
-
-[SPRAWDZIAN][3F] Piotr Kowalski
 
