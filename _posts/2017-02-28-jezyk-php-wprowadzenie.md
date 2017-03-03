@@ -9,10 +9,28 @@ Podręcznik str. 169 - 179
 
 ### Przykład na lekcji
 
-Aby zabezpieczyć hasłem katalog należy utworzyć plik zawierajacy login i hasla
+
+Konfiguracja PHP - `php.ini` (komentarz rozpoczyna się ;)
+Kongiguracja Apache - `httpd.conf` (komentarz rozpoczyna się #)
+
+
+Przykłady z `php.ini`
+ - short_open_tag
+ - display_errors 
+ - memory_limit
+ - safe_mode
+ - upload_max_filesize
+ 
+Przykłady z `httpd.conf`
+ - Listen
+ - DocumentError
+ - Log
+
+Aby zabezpieczyć hasłem katalog należy utworzyć plik zawierajacy login i hasla. 
+Uwaga! Plik z hasłem nie musi być w katalogu `/htdocs/` 
 
 ```txt
-C:\xampp\apache\bin\htpasswd.exe -c -b C:\xampp\secret\hidden\place\.htpasswd user password
+C:\xampp\apache\bin\htpasswd.exe -c -b C:\xampp\katalog\.htpasswd user password
 
 ```
 
@@ -20,7 +38,7 @@ C:\xampp\apache\bin\htpasswd.exe -c -b C:\xampp\secret\hidden\place\.htpasswd us
 Nastepnie tworzymy konfiguracje w pliku `.htaccess`
 
 ```txt
-AuthName "Protected Area"
+AuthName "Treść wiadomośći"
 AuthType Basic
 AuthUserFile C:/xampp/katalog/.htpasswd
 require valid-user
