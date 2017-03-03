@@ -22,26 +22,34 @@ Nastepnie tworzymy konfiguracje w pliku `.htaccess`
 ```txt
 AuthName "Protected Area"
 AuthType Basic
-AuthUserFile C:/xampp/katalog/haslo.htpasswd
+AuthUserFile C:/xampp/katalog/.htpasswd
 require valid-user
 ```
 
 
+### Uwaga
+Domyslnie w systemie windows pliki tekstowe maja rozszerzenie `.txt`. Jak sobie poradzić z tym problemem? Odpowiedz znajdziecie tutaj - 
+[tutorial](http://chandanpatra.blogspot.com/2013/08/basic-authentication-with-htpasswd-in.html)
+
+
 ### Zadanie domowe
+
 
 - termin: następna lekcja
 - osoby nieobecne: poinformowane o zadaniu via librus, pierwsza lekcja po powrocie do szkoły
 
 Zainstaluj oprogramowanie XAMPP. 
 1. Zabezpiecz dostęp haslem do katalogu `/prywatny`.
-2. Wykonaj skrypt: 
+2. Dodaj uzytkownika admin (haslo:test123)
+3. Wykonaj skrypt: 
     a) jako polecenie linii komend 
     b) przez przeglądarkę internetową
+4. Zapoznaj się z poleceniem `htpasswd.exe`. Wybierz 3 opcje i je opisz.
+5. Upewnij się, że uruchomiona jest obsługa błędów oraz `short_open_tag`.
 
 
-Upewnij się, że uruchomiona jest obsługa błędów oraz `short_open_tag`.
+Szablon odpowiedzi [odpowiedzi](/pozostale/szablon-zadanie-domowe-t1-php.doc). 
 
-Wyniki zapisz w postaci zrzutów ekranów. 
 
 
 - Skrypt dla [1,3,6]
