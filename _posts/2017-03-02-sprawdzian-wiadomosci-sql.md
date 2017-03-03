@@ -23,3 +23,66 @@ W tytule nalezy wpisac koniecznie __"[SPRAWDZIAN][KLASA] Imie i nazwisko"__
 
 ---
 
+## Grupa A
+1 Przygotuj zapytanie SQL wyświetlające (__6p__):
+ - inicjał ucznia, który ma największą średnią
+ - imie i nazwisko ucznia, który posiada najdłuższe nazwisko
+ - imię i nazwisko ucznia oraz średnią zaokrągloną do 1 miejsca po przecinku
+ 
+![Zadanie1](/images/sprawdzian-sql/zad1-1.png)
+
+---
+
+2 Przygotuj zapytanie SQL wyświetlające (__3p__):
+ - wyświetl średnią wszystkich uczniów w klasie
+
+![Zadanie1](/images/sprawdzian-sql/zad-2.png)
+
+---
+
+3 Wymień, opisz i podaj składnie poznanych pętli w skryptach SQL (__6p__)
+
+---
+
+4 Co to jest transakcja? Jakie cechy powinna mieć każda transakcja? (__4p__)
+
+---
+
+5 W jaki sposób przydziela się i odbiera użytkownikom prawa dostępu? (__4p__)
+
+---
+
+6 Napisz funkcję obliczającą deltę (__6p__).
+
+---
+
+## Grupa B
+1 Przygotuj zapytanie SQL wyświetlające (__6p__):
+ - pracownika, który ma najmniejszą pensję
+ - średnia, minimalna, maksymalną pensję pracownikow
+ - pensję brutto pracowników
+ 
+![Zadanie1](/images/sprawdzian-sql/zad1-2.png)
+
+---
+
+2 Przygotuj zapytanie SQL wyświetlające (__3p__):
+ - wyświetl 3 klasy z najwiekszą średnią ocen
+
+![Zadanie1](/images/sprawdzian-sql/zad-2.png)
+
+---
+
+3 Wymień, opisz i podaj składnie poznanych instrukcji warunkowych (__6p__)
+
+---
+
+4 Jak tworzymy i usuwamy indeksy tabeli za pomocą języka SQL? (__4p__)
+
+---
+
+5 W jaki sposób dodać użytkownika bądź go usunąć w języku SQL? (__4p__)
+
+---
+
+6 Napisz funkcję obliczającą pole koła (__6p__)
