@@ -73,6 +73,10 @@ Podręcznik str. 180 - 188.
 
 ### Zadanie domowe
 
+- termin: następna lekcja
+- osoby nieobecne: poinformowane o zadaniu via librus, pierwsza lekcja po powrocie do szkoły
+
+
 1 Utwórz stronę WWW `strona.php` wykorzystaj CSS do pozycjonowania elementów.
 
 - w kodzie zastosuj komentarze przy deklaracji zmiennych
