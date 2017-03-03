@@ -23,7 +23,7 @@ W zeszycie przygotuj schemat algorymu w postaci listy kroków, pseudokodu i blok
  - Suma liczb a,b [3,4]
  - Srednia arytmetyczna liczb a,b,c,d [7,8]
  - liczba jest parzysta [9,11]
- - liczba jest podzielna przez 3 [12,6]
+ - liczba jest podzielna przez 3 [12,6][3E-2/dodatkowe/]
  - liczba jest podzielna przez 9 [10,5]
 
  
