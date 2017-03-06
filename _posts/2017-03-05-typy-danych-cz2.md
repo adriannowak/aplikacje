@@ -284,7 +284,7 @@ Przykład: `$_SERVER`
 
 ### Zadanie na lekcji
 
-Przygotuj tablice w której umieścisz :
+Przygotuj tablice w której umieścisz 3 ksiązki:
  - tytul ksiązki
  - cene
  - adres url do miniatury
