@@ -29,7 +29,7 @@ DELIMITER; // uwaga bez spacji i taba!!!
 <?php
     // nowdoc
     // uwaga. PO DELIMITER NIE MOZE BYC SPACJI I KOMENTARZA
-    $przywitanie2 = <<'DELI' 
+    $przywitanie2 =<<<'DELI' 
     Czesc $imie $nazwisko. Jak się masz?
     Co $imie jadłeś dziś na śniadanie?
 DELI; // uwaga, bez spacji i taba!!!!
