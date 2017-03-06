@@ -130,10 +130,10 @@ Przykład: `$_SERVER`
 ```php
 <?php
     $ksiazka = array(
-        tytul => 'Akademia Pana Kleksa',
-        autor => 'Jan Brzechwa',
-        stron => 200,
-        cena => 40.99
+        'tytul' => 'Akademia Pana Kleksa',
+        'autor' => 'Jan Brzechwa',
+        'stron' => 200,
+        'cena' => 40.99
     );
     
     echo $ksiazka['cena'];
@@ -148,23 +148,23 @@ Przykład: `$_SERVER`
 <?php
 
     $ksiazka = array(
-        tytul => 'Akademia Pana Kleksa',
-        autor => 'Jan Brzechwa',
-        stron => 200,
-        cena => 40.99
+        'tytul' => 'Akademia Pana Kleksa',
+        'autor' => 'Jan Brzechwa',
+        'stron' => 200,
+        'cena' => 40.99
     );
     $ksiazka2 = array(
-        tytul => 'Samochwała',
-        autor => 'Jan Brzechwa',
-        stron => 12,
-        cena => 12.99
+        'tytul' => 'Samochwała',
+        'autor' => 'Jan Brzechwa',
+        'stron' => 12,
+        'cena' => 12.99
     );
 
     $ksiazka3 = array(
-        tytul => 'Na wyspach bergamutach',
-        autor => 'Jan Brzechwa',
-        stron => 10,
-        cena => 12.99
+        'tytul' => 'Na wyspach bergamutach',
+        'autor' => 'Jan Brzechwa',
+        'stron' => 10,
+        'cena' => 12.99
     );
 ```
 
@@ -175,22 +175,22 @@ Przykład: `$_SERVER`
 
     $ksiazki = array(
         array(
-                tytul => 'Akademia Pana Kleksa',
-                autor => 'Jan Brzechwa',
-                stron => 200,
-                cena => 40.99
+                'tytul' => 'Akademia Pana Kleksa',
+                'autor' => 'Jan Brzechwa',
+                'stron' => 200,
+                'cena' => 40.99
             ),
         array(
-                tytul => 'Samochwała',
-                autor => 'Jan Brzechwa',
-                stron => 12,
-                cena => 12.99
+                'tytul' => 'Samochwała',
+                'autor' => 'Jan Brzechwa',
+                'stron' => 12,
+                'cena' => 12.99
             ),
         array(
-                tytul => 'Na wyspach bergamutach',
-                autor => 'Jan Brzechwa',
-                stron => 10,
-                cena => 12.99
+                'tytul' => 'Na wyspach bergamutach',
+                'autor' => 'Jan Brzechwa',
+                'stron' => 10,
+                'cena' => 12.99
           )
     );
 
@@ -209,27 +209,27 @@ Przykład: `$_SERVER`
 
     $ksiazki = array(
         "Akademia_Pana_Kleksa" => array(
-                tytul => 'Akademia Pana Kleksa',
-                autor => 'Jan Brzechwa',
-                stron => 200,
-                cena => 40.99
+                'tytul' => 'Akademia Pana Kleksa',
+                'autor' => 'Jan Brzechwa',
+                'stron' => 200,
+                'cena' => 40.99
             ),
         "Samochwala" => array(
-                tytul => 'Samochwała',
-                autor => 'Jan Brzechwa',
-                stron => 12,
-                cena => 12.99
+                'tytul' => 'Samochwała',
+                'autor' => 'Jan Brzechwa',
+                'stron' => 12,
+                'cena' => 12.99
             ),
         "Na_Wyspach_Bergamutach" => array(
-                tytul => 'Na wyspach bergamutach',
-                autor => 'Jan Brzechwa',
-                stron => 10,
-                cena => 12.99
+                'tytul' => 'Na wyspach bergamutach',
+                'autor' => 'Jan Brzechwa',
+                'stron' => 10,
+                'cena' => 12.99
           )
     );
 
     // i wyswietlamy cene ksiazki "Na wyspach Bergamutach"
-    echo $ksiazki["Na_Wyspach_Bergamutach"][cena];
+    echo $ksiazki["Na_Wyspach_Bergamutach"]['cena'];
     
 ?>
 ```
@@ -247,7 +247,7 @@ Przykład: `$_SERVER`
         <li>$ksiazki[1][tytul];</li>
         <li>$ksiazki[2][tytul]
             <ol>
-               <li>Cena $ksiazki[2][cena]</li>
+               <li>Cena $ksiazki[2]['cena']</li>
              </ol>
         </li>
     </ul>
