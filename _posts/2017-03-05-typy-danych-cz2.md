@@ -17,20 +17,22 @@ layout: post
 ```php
 <?php
 //heredoc
-    $przywitanie = <<<DELIMITER
+// uwaga, po DELIMITER NIE MA SPACJI!!!!
+    $przywitanie = <<<DELIMITER 
     Czesc $imie $nazwisko. Jak sie masz?
     Co $imie jadłes dziś na sniadanie?
-    DELIMITER;
+DELIMITER; // uwaga bez spacji i taba!!!
 ?>
 ```
 
 ```php
 <?php
     // nowdoc
+    // uwaga. PO DELIMITER NIE MOZE BYC SPACJI I KOMENTARZA
     $przywitanie2 = <<'DELI' 
     Czesc $imie $nazwisko. Jak się masz?
     Co $imie jadłeś dziś na śniadanie?
-    DELI;
+DELI; // uwaga, bez spacji i taba!!!!
 ?>
 ```
 
@@ -257,7 +259,9 @@ Przykład: `$_SERVER`
 ```php
 <?php
     echo "<li>";
-    echo "<li> $ksiazka[0]['tytul']</li>";
+    echo "<li>";
+    echo $ksiazka[0]['tytul']
+    echo "</li>";
     echo "<ol><li>";
     echo $ksiazka[0]['cena'];
     echo "</li></ol>";
