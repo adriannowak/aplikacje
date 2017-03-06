@@ -3,7 +3,7 @@ title: Typy danych (string, array, object, resource, null)
 layout: post
 ---
 
-
+Podręcznik str. 186 - 192
 
 ### Przykład na lekcji
 
