@@ -293,6 +293,7 @@ Przygotuj tablice w której umieścisz :
  
  
 Wyświetl dane w postaci:
+ - funkcji `print_r` np. `print_r($ksiazki);`
  - tytuly ksiazek w postaci listy
  - tabele (cena ksiazki, tytul, autor, hiperlacze do ksiegarni internetowej)
  - listy numerowanej z zagniezdżeniami (wszystkie atrybuty)
