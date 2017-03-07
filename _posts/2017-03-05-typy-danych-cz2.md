@@ -243,11 +243,11 @@ Przykład: `$_SERVER`
 <?php
     $html = << HEREDOC;
     <ul>
-        <li>$ksiazki[0][tytul];</li>
-        <li>$ksiazki[1][tytul];</li>
-        <li>$ksiazki[2][tytul]
+        <li>$ksiazka1_tytul</li>
+        <li>$ksiazki2_tytul</li>
+        <li>$ksiazka_3_tytul
             <ol>
-               <li>Cena $ksiazki[2]['cena']</li>
+               <li>Cena $ksiazka_2_cena</li>
              </ol>
         </li>
     </ul>
