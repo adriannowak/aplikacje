@@ -3,6 +3,7 @@ title: Przykład kodu z wykorzystaniem CSS
 layout: post
 ---
 
+Przykład kodu.
 
 ```html
 <html>
