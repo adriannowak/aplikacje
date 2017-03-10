@@ -21,55 +21,35 @@ należy wysłać na moj adres e-mail.
 W tytule nalezy wpisac koniecznie __"[SPRAWDZIAN][KLASA] Imie i nazwisko"__ 
 
 
-
 ---
 
-## Grupa A
+## Grupa B
 1 Przygotuj zapytanie SQL wyświetlające (__6p__):
- - inicjał ucznia, który ma największą średnią
- - imie i nazwisko ucznia, który posiada najdłuższe nazwisko
- - imię i nazwisko ucznia oraz średnią zaokrągloną do 1 miejsca po przecinku
+ - pracownika, który ma najmniejszą pensję
+ - średnia, minimalna, maksymalną pensję pracownikow
+ - pensję brutto pracowników
  
-![Zadanie1](/images/sprawdzian-sql/zad1-1.png)
+![Zadanie1](/images/sprawdzian-sql/zad1-2.png)
 
 ---
 
 2 Przygotuj zapytanie SQL wyświetlające (__3p__):
- - wyświetl średnią wszystkich uczniów w klasie
+ - wyświetl 3 klasy z najwiekszą średnią ocen
 
 ![Zadanie1](/images/sprawdzian-sql/zad-2.png)
 
 ---
 
-3 Wymień, opisz i podaj składnie poznanych pętli w skryptach SQL (__6p__)
+3 Wymień, opisz i podaj składnie poznanych instrukcji warunkowych (__6p__)
 
 ---
 
-4 Co to jest transakcja? Jakie cechy powinna mieć każda transakcja? (__4p__)
+4 Jak tworzymy i usuwamy indeksy tabeli za pomocą języka SQL? (__4p__)
 
 ---
 
-5 W jaki sposób przydziela się i odbiera użytkownikom prawa dostępu? (__4p__)
+5 W jaki sposób dodać użytkownika bądź go usunąć w języku SQL? (__4p__)
 
 ---
 
-6 Napisz funkcję obliczającą deltę (__6p__).
-
----
-
-
-### Grupa 3E
-
-1. [A]
-2. [A]
-3. [B]
-4. [A]
-5. [B]
-6. [A]
-7. [B]
-8. [B]
-9. [A]
-10. [N]
-11.	[A]
-12.	[B]
-
+6 Napisz funkcję obliczającą pole koła (__6p__)
