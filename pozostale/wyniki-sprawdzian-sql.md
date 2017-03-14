@@ -98,11 +98,11 @@ Michał Winnicki
 Zadanie 1:    1.5 /   6p
 Zadanie 2     0 /   3p 
 Zadanie 3     3 /   6p
-Zadanie 4     2 /   4p
+Zadanie 4     3 /   4p
 Zadanie 5     1 /   4p
 Zadanie 6     6 /  6p b*b lub pow(b,2) 
 ---------------
-            13.5p   /   29p
+            14.5p   /   29p
             
             
 Kacper Kałucki
@@ -198,7 +198,7 @@ Zadanie 6     6 /  6p
 Patryk Wojciechowski
 Zadanie 1:    0 /   6p
 Zadanie 2     0 /   3p 
-Zadanie 3     1 /   6p
+Zadanie 3     3 /   6p
 Zadanie 4     2 /   4p
 Zadanie 5     4 /   4p
 Zadanie 6     4 /  6p 
@@ -208,13 +208,13 @@ Zadanie 6     4 /  6p
 
 Eryk Polak
 Zadanie 1:    0 /   6p
-Zadanie 2     1.5 /   3p ... prawie dobrze! 
-Zadanie 3     1 /   6p
-Zadanie 4     4 /   4p
+Zadanie 2     3 /   3p ... prawie dobrze! 
+Zadanie 3     3 /   6p
+Zadanie 4     3 /   4p
 Zadanie 5     4 /   4p 
 Zadanie 6     0 /  6p 
 ---------------
-            10.5p   /   29p
+            16   /   29p
 
 
 

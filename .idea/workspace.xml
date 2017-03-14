@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4fee7e0d-f5a7-4597-aaa2-5ba3ee96d30b" name="Default" comment="t1,t2">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pozostale/szablon-instrukcje-i-petle-php.doc" afterPath="$PROJECT_DIR$/pozostale/szablon-instrukcje-i-petle-php.doc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pozostale/szablon-zadanie-domowe-funkcje-php.doc" afterPath="$PROJECT_DIR$/pozostale/szablon-zadanie-domowe-funkcje-php.doc" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pozostale/wyniki-sprawdzian-sql.md" afterPath="$PROJECT_DIR$/pozostale/wyniki-sprawdzian-sql.md" />
     </list>
@@ -27,8 +25,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2017-03-02-sprawdzian-wiadomosci-sql.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1584">
-                <caret line="94" column="6" lean-forward="true" selection-start-line="94" selection-start-column="6" selection-end-line="94" selection-end-column="6" />
+              <first_editor relative-caret-position="-130">
+                <caret line="107" column="45" lean-forward="false" selection-start-line="107" selection-start-column="45" selection-end-line="107" selection-end-column="45" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -36,12 +34,32 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="zad-2.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/sprawdzian-sql/zad-2.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="wyniki-sprawdzian-sql.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pozostale/wyniki-sprawdzian-sql.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="4096">
-                <caret line="236" column="0" lean-forward="false" selection-start-line="236" selection-start-column="0" selection-end-line="236" selection-end-column="0" />
+              <first_editor relative-caret-position="760">
+                <caret line="127" column="23" lean-forward="false" selection-start-line="127" selection-start-column="23" selection-end-line="127" selection-end-column="23" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-03-03-typy-danych-cz1.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-03-03-typy-danych-cz1.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -126,7 +144,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -233,6 +250,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -345,21 +363,9 @@
       <workItem from="1489083490455" duration="4024000" />
       <workItem from="1489129541130" duration="1468000" />
       <workItem from="1489346990063" duration="5564000" />
-      <workItem from="1489391764503" duration="195000" />
-    </task>
-    <task id="LOCAL-00004" summary="t1,t2">
-      <created>1488109501966</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1488109501966</updated>
-    </task>
-    <task id="LOCAL-00005" summary="t1,t2">
-      <created>1488110006114</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1488110006114</updated>
+      <workItem from="1489391764503" duration="3463000" />
+      <workItem from="1489425360113" duration="50000" />
+      <workItem from="1489475081162" duration="508000" />
     </task>
     <task id="LOCAL-00006" summary="t1,t2">
       <created>1488110083930</created>
@@ -690,17 +696,31 @@
       <option name="project" value="LOCAL" />
       <updated>1489391818765</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="t1,t2">
+      <created>1489391968663</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1489391968663</updated>
+    </task>
+    <task id="LOCAL-00054" summary="t1,t2">
+      <created>1489475395227</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1489475395227</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64521000" />
+    <option name="totallyTimeSpent" value="68347000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22161572" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.194869" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -964,16 +984,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-03-03-typy-danych-cz1.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-03-05-narzedzia-programistyczne.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -994,11 +1004,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/sprawdzian-sql/zad-2.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-02-26-podzial-na-grupy.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1012,19 +1017,35 @@
     <entry file="file://$PROJECT_DIR$/pozostale/wyniki-sprawdzian-sql.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="4096">
-            <caret line="236" column="0" lean-forward="false" selection-start-line="236" selection-start-column="0" selection-end-line="236" selection-end-column="0" />
+          <first_editor relative-caret-position="760">
+            <caret line="127" column="23" lean-forward="false" selection-start-line="127" selection-start-column="23" selection-end-line="127" selection-end-column="23" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-03-03-typy-danych-cz1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/sprawdzian-sql/zad-2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-03-02-sprawdzian-wiadomosci-sql.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1584">
-            <caret line="94" column="6" lean-forward="true" selection-start-line="94" selection-start-column="6" selection-end-line="94" selection-end-column="6" />
+          <first_editor relative-caret-position="-130">
+            <caret line="107" column="45" lean-forward="false" selection-start-line="107" selection-start-column="45" selection-end-line="107" selection-end-column="45" />
             <folding />
           </first_editor>
           <second_editor />
