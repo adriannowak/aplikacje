@@ -7,7 +7,7 @@ layout: post
 Maksymalna liczba punktów: __29 pkt__
 - ndst (0-11)
 - dop (40 - 60%)
-    - dst (61 - 75%)
+- dst (61 - 75%)
 - db (76 - 90%)
 - bdb (91 - 95%) 
 - cel (>95%)
@@ -87,6 +87,43 @@ W tytule nalezy wpisac koniecznie __"[SPRAWDZIAN][KLASA] Imie i nazwisko"__
 
 6 Napisz funkcję obliczającą pole koła (__6p__)
 
+
+
+---
+
+## Grupa C
+1 Przygotuj zapytanie SQL wyświetlające (__6p__):
+ - inicjał ucznia, który ma najmniejszą średnią
+ - imie i nazwisko ucznia, który posiada najkrótsze nazwisko
+ - imię i nazwisko ucznia oraz średnią zaokrągloną do 2 miejsca po przecinku
+ 
+![Zadanie1](/images/sprawdzian-sql/zad1-1.png)
+
+---
+
+2 Przygotuj zapytanie SQL wyświetlające (__3p__):
+ - wyświetl średnią klasy o id_klasa = 4
+ - wyświetl id_klasa w której uczniowie mają najmniejszą średnią
+
+![Zadanie1](/images/sprawdzian-sql/zad-2.png)
+
+---
+
+3 Wymień, opisz i podaj składnie poznanych pętli w skryptach SQL (__6p__)
+
+---
+
+4 Wymień i opisz poziomy izolacji transakcji. Jakie problemy występują podczas pracy transakcyjnej? (__4p__)
+
+---
+
+5 W jaki sposób przydziela się i odbiera użytkownikom prawa dostępu? (__4p__)
+
+---
+
+6 Napisz funkcję obliczającą deltę (__6p__).
+
+---
 
 
 ### Grupa 3E
