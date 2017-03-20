@@ -6,9 +6,12 @@ layout: post
 Podręcznik str.  30 - 112
 
 ### Zadanie
+
+Jak dodać automatycznie otwierania formularza?
+
 https://support.office.com/pl-pl/article/Tworzenie-makra-uruchamianego-podczas-otwierania-bazy-danych-98ba1508-dcc6-4e0f-9698-a4755e548124
 https://support.office.com/pl-pl/article/Ustawianie-domy%C5%9Blnego-formularza-kt%C3%B3ry-pojawia-si%C4%99-przy-ka%C5%BCdym-otwarciu-bazy-danych-94961011-392f-4c3b-8dbc-e5d5adbff1df
-
+https://support.office.com/pl-pl/article/Ustawianie-domy%C5%9Blnego-formularza-kt%C3%B3ry-pojawia-si%C4%99-przy-ka%C5%BCdym-otwarciu-bazy-danych-lub-aplikacji-sieci-Web-d3c703a4-9aa6-4de4-b749-2dffb5b50596
 
 
 
@@ -33,6 +36,52 @@ https://support.office.com/pl-pl/article/Ustawianie-domy%C5%9Blnego-formularza-k
 19. Co to jest raport? Czym rozni sie od formularza?
 20. W jaki spsob zabezieczyc baze danych? Co to jest centrum zaufania?
 21. Jak ustawic i usunac haslo w bazie danych?
+
+
+
+
+### Zadanie
+
+Wykonaj bazę danych zgodnie ze [schematem](/materialy-access/sprawdzian/schemat.PNG).
+
+1. Dodaj przychodnie:
+ - ID 1 "Kangur", ul. Zielona 12
+ - ID 2 "Bóbr" ul. Góralska 4
+ - ID 3 "Leopard" ul.Jesionowa 55
+ 
+2. Dodaj lekarzy:
+ - Damian Sowa, przychodnia id 1
+ - Jan Kowalski, przychodnia 2
+ - Tomasz Kowalski przychodnia 3
+ - Piotr Nowak przychodnia 1
+ - Pawel Kowalik przychodnia 1
+ 
+3. Zaimportuj z pliku [XLS](/materialy-access/sprawdzian/pacjent.xlsx) informacje o pacjentach
+
+4. Wykonaj formularz:
+ - Dodaj/Usuń przychodnie
+ - Dodaj/Usuń lekarza
+ - Dodaj wizytę. Pole combi z lekarzem. 
+ 
+Formularz powinien posiadać przyciski:
+ - "Powróc do głównego menu"
+ 
+5. Dodaj kwerendę z parametrem dodająca nowego lekarza.
+
+6. Dodaj kwerendę wyświetlającą liczbę pacjentów przypisanych do lekarza.
+
+7. Na podstawie kwerendy z zadania 6 przygotuj raport.
+
+8. Zabezpiecz bazę danych hasłem
+
+9. Dodaj menu nawigacyjne z przyciskami uruchamiające się automatycznie po otworzeniu bazy danych.
+Przykład [menu](/materialy-access/sprawdzian/menu.PNG)
+
+
+10. Kwerenda aktualizująca adres przychodni z "Zielona 12" na Zielona "22" - dla przychodni "Kangur"
+
+11. Kwerenda wykonujaca kopie tabeli pacjenci.
+
 
 formularze do wprowadzenia danych słownikowych
 główny formularz roboczy realizujący funkcjonalność wynikającą z tematu pracy
