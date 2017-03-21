@@ -5,15 +5,16 @@ layout: post
 
 Podręcznik str.  30 - 112
 
-### Zadanie
+### Informacje
 
 Jak dodać automatycznie otwierania formularza?
 
-https://support.office.com/pl-pl/article/Tworzenie-makra-uruchamianego-podczas-otwierania-bazy-danych-98ba1508-dcc6-4e0f-9698-a4755e548124
-https://support.office.com/pl-pl/article/Ustawianie-domy%C5%9Blnego-formularza-kt%C3%B3ry-pojawia-si%C4%99-przy-ka%C5%BCdym-otwarciu-bazy-danych-94961011-392f-4c3b-8dbc-e5d5adbff1df
-https://support.office.com/pl-pl/article/Ustawianie-domy%C5%9Blnego-formularza-kt%C3%B3ry-pojawia-si%C4%99-przy-ka%C5%BCdym-otwarciu-bazy-danych-lub-aplikacji-sieci-Web-d3c703a4-9aa6-4de4-b749-2dffb5b50596
+* [przy uzyciu makra](https://support.office.com/pl-pl/article/Tworzenie-makra-uruchamianego-podczas-otwierania-bazy-danych-98ba1508-dcc6-4e0f-9698-a4755e548124)
+* [przy uzyciu opcji menu](https://support.office.com/pl-pl/article/Ustawianie-domy%C5%9Blnego-formularza-kt%C3%B3ry-pojawia-si%C4%99-przy-ka%C5%BCdym-otwarciu-bazy-danych-94961011-392f-4c3b-8dbc-e5d5adbff1df)
+* [przy uzyciu opcji menu2](https://support.office.com/pl-pl/article/Ustawianie-domy%C5%9Blnego-formularza-kt%C3%B3ry-pojawia-si%C4%99-przy-ka%C5%BCdym-otwarciu-bazy-danych-lub-aplikacji-sieci-Web-d3c703a4-9aa6-4de4-b749-2dffb5b50596)
 
 
+### Pytania
 
 1. Jakie cechy powinno posiadać pole tabeli pełniące rolę klucza podstawowego?
 2. Jaki typ pola najlepiej wybrać do wpisania numeru telefonu? Uzasadnij
@@ -61,7 +62,7 @@ Wykonaj bazę danych zgodnie ze [schematem](/materialy-access/sprawdzian/schemat
 4. Wykonaj formularz:
  - Dodaj/Usuń przychodnie
  - Dodaj/Usuń lekarza
- - Dodaj wizytę. Pole combi z lekarzem. 
+ - Dodaj wizytę. Pole combi z pacjentem. Powinny wyswietlic sie informacje (TYLKO DO OCZYTU) o: lekarzu, przychodni
  
 Formularz powinien posiadać przyciski:
  - "Powróc do głównego menu"
@@ -82,11 +83,3 @@ Przykład [menu](/materialy-access/sprawdzian/menu.PNG)
 
 11. Kwerenda wykonujaca kopie tabeli pacjenci.
 
-
-formularze do wprowadzenia danych słownikowych
-główny formularz roboczy realizujący funkcjonalność wynikającą z tematu pracy
-oprogramowanie głównego formularza tak by zapewnić wprowadzanie zapisów transakcyjnych aplikacji (a nie jedynie danych słownikowych)
-konstrukcja programu ma uwzględniać mechanizm kontekstu pracy
-raporty skojarzone z wybranymi formularzami
-menu aplikacji pozwalające nawigować po wszystkich oknach programu
-makro, które w automatyczny sposób włącza najważniejszy formularz tuż po starcie programu
