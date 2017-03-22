@@ -67,19 +67,19 @@ Wykonaj bazę danych zgodnie ze [schematem](/materialy-access/sprawdzian/schemat
 Formularz powinien posiadać przyciski:
  - "Powróc do głównego menu"
  
-5. Dodaj kwerendę z parametrem dodająca nowego lekarza.
+5 Dodaj kwerendę z parametrem dodająca nowego lekarza.
 
-6. Dodaj kwerendę wyświetlającą liczbę pacjentów przypisanych do lekarza.
+6 Dodaj kwerendę wyświetlającą liczbę pacjentów przypisanych do lekarza.
 
-7. Na podstawie kwerendy z zadania 6 przygotuj raport.
+7 Na podstawie kwerendy z zadania 6 przygotuj raport.
 
-8. Zabezpiecz bazę danych hasłem
+8 Zabezpiecz bazę danych hasłem
 
-9. Dodaj menu nawigacyjne z przyciskami uruchamiające się automatycznie po otworzeniu bazy danych.
+9 Dodaj menu nawigacyjne z przyciskami uruchamiające się automatycznie po otworzeniu bazy danych.
 Przykład [menu](/materialy-access/sprawdzian/menu.PNG)
 
 
-10. Kwerenda aktualizująca adres przychodni z "Zielona 12" na Zielona "22" - dla przychodni "Kangur"
+10 Kwerenda aktualizująca adres przychodni z "Zielona 12" na Zielona "22" - dla przychodni "Kangur"
 
-11. Kwerenda wykonujaca kopie tabeli pacjenci.
+11 Kwerenda wykonujaca kopie tabeli pacjenci.
 
