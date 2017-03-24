@@ -5,7 +5,7 @@ layout: post
 
 ### Zadanie domowe
 
-Dokonczyc zadanie na lekcji:
+Dokonczyc zadanie:
 Policz elementy tablicy: - patrzyste i nieparzyste.
 
 
