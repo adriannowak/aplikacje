@@ -88,3 +88,6 @@ Przyciski umiesc w stopce !!!
 Przykład [menu](/materialy-access/sprawdzian/menu.PNG)
 
 7 Zabezpiecz bazę danych hasłem "test" (0.5 pkt)
+
+
+[sprawozdanie](/materialy-access/sprawdzian/sprawozdanie.odt)
