@@ -3,8 +3,25 @@ title: Formularze - obsługa podstawowych kontrolek (2/3)
 layout: post
 ---
 
+
+Przydatne funkcje:
+    - strtotime http://php.net/manual/en/function.strtotime.php
+    - date parse http://php.net/manual/en/function.date-parse.php
+    - date_parse_from_format http://php.net/manual/en/function.date-parse-from-format.php
+    
+    
+    
+ 
 ### Przykład na lekcji
 
+
+```pho
+<?php
+    $wynik = strtotime('06-04-2017 +3days');
+    print_r(getdate($wynik));
+?>
+
+```
 ```php
 <!DOCTYPE html>
 <html>
@@ -64,6 +81,13 @@ layout: post
 
     </body>
 ```
+
+### Zadanie dla 3E
+
+Dodaj przyciski typu checkbox - 'Znam angielski', "Znam niemiecki", "Znam czeski".
+W wyniku zapisania formularza powinna wyswietlic sie flaga zaznaczonych panstw.
+
+Dane przechowaj w postaci tablicy. 
 
 
 
