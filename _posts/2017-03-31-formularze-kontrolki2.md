@@ -101,7 +101,6 @@ Podpowiedź: należy przerobić funkcję wyświetl_informacje();
 
 
 ```php
-
 <!DOCTYPE html>
 <html>
     <head>
@@ -165,7 +164,7 @@ Podpowiedź: należy przerobić funkcję wyświetl_informacje();
     
 
     </body>
-    ```
+```
     
     
 
