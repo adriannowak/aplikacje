@@ -15,7 +15,7 @@ Przydatne funkcje:
 ### Przykład na lekcji
 
 
-```pho
+```php
 <?php
     $wynik = strtotime('06-04-2017 +3days');
     print_r(getdate($wynik));
