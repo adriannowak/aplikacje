@@ -285,4 +285,25 @@ Zadanie 6     0 /  6p
 NO SPOKO?
 
 
+P. Zahorski - II termin
+Zadanie 1:    2 /   6p
+Zadanie 2     0 /   3p 
+Zadanie 3     0 /   6p
+Zadanie 4     0 /   4p
+Zadanie 5     0 /   4p
+Zadanie 6     6 /  6p 
+---------------
+            8p   /   29p
+
+
+F. Korytkiewicz -  I? termin
+Zadanie 1     1 /   6p
+Zadanie 2     0 /   3p 
+Zadanie 3     3 /   6p
+Zadanie 4     0 /   4p
+Zadanie 5     0 /   4p
+Zadanie 6     0 /  6p 
+---------------
+            p   /   29p
+
 

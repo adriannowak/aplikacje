@@ -92,3 +92,12 @@ Przykład [menu](/materialy-access/sprawdzian/menu.PNG)
 
 [sprawozdanie](/materialy-access/sprawdzian/sprawozdanie.odt)
 
+
+1. Schemat 
+2. Wstawianie danych 0.5p
+3. FOrmularze 1p
+4. Kwerenda 1p
+5. Raport 1
+6. haslo test 0.5
+
+

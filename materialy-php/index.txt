@@ -51,3 +51,6 @@ Do pobrania:
 
 Ubuntu: "sudo apt-get install apache2 mysql-server php5 phpmyadmin"
 Windows: http://www.wampserver.com/en/
+
+
+http://www.glowacki.p9.pl/nowa_strona/strony/niedatowane/do_pobrania/e14.php?co=006001006xyz
