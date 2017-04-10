@@ -143,7 +143,7 @@ Przyciski umiesc w stopce !!!
   - Grupa A kwerendę aktualizującą nauczycieli o nazwisku "Kowalski" -> ":wartosc_z_parametru" (0.5 pkt)
   - Grupa B kwerende usuwającą zawartosc tabeli backup (0.5 pkt)
   
-5 Wyświetl raport zawierający informacje o nauczycielach zatrudnionych w przychodniach (1pkt)
+5 Wyświetl raport zawierający informacje o nauczycielach zatrudnionych w szkolach (1pkt)
 
 6 Dodaj menu nawigacyjne z przyciskami uruchamiające się automatycznie po otworzeniu bazy danych (pkt 1)
 Przykład [menu](/materialy-access/sprawdzian/menu.PNG)
