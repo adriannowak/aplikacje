@@ -101,3 +101,58 @@ Przykład [menu](/materialy-access/sprawdzian/menu.PNG)
 6. haslo test 0.5
 
 
+
+
+### Zadanie praktyczne - wersja B (6pkt)
+
+
+1 Zaprojektuj baze danych - plan lekcji (1 pkt).
+ 
+ Encje : 
+    - Nauczyciel (imie, nazwisko)
+    - Przedmiot (id, nazwa)
+    - Szkola (id, nazwa, miasto, ulica, numer_telefonu)
+       
+    
+Pamiętaj o zachowaniu typów danych oraz relacjach!!!
+
+2 Dodaj szkole (0.5 pkt):
+ - ID 1 EZN 
+ - ID 2 LO IV
+ - ID 3 Gimnazjum nr II
+ 
+Dodaj nauczycieli:
+ - Damian Sowa, szkola id 1
+ - Jan Kowalski, szkola id 2
+ - Tomasz Kowalski szkola id 3
+ - Piotr Nowak szkola id 1
+ - Pawel Kowalik szkola 1
+
+ 
+3 Dodaj formularze. W kazdym z nich wstaw datę w nagłówku oraz tytuł (1 pkt):
+ - dodanie oraz usunięcie nauczyciela
+ - dodanie oraz usunięcie szkoly
+
+W formularzu dodajacym nauczyciela użyj pola typu kombi do okreslenia szkoly. 
+Pamiętaj o zablokowaniu mozliwości edycji i wstawiania w odpowiednich miejscach!!
+Przyciski umiesc w stopce !!!
+
+4 Dodaj kwerende:
+  - Grupa A "Liczba nauczycieli zatrudnionych w szkolach" o nazwie "Liczba nauczycieli w szkole" (0.5pkt).
+  - Grupa B "Wykonaj kopie zapasowa tabeli szkola" o nazwie "Wykonaj backup tabeli" (0.5pkt)
+  - Grupa A kwerendę aktualizującą nauczycieli o nazwisku "Kowalski" -> ":wartosc_z_parametru" (0.5 pkt)
+  - Grupa B kwerende usuwającą zawartosc tabeli backup (0.5 pkt)
+  
+5 Wyświetl raport zawierający informacje o nauczycielach zatrudnionych w przychodniach (1pkt)
+
+6 Dodaj menu nawigacyjne z przyciskami uruchamiające się automatycznie po otworzeniu bazy danych (pkt 1)
+Przykład [menu](/materialy-access/sprawdzian/menu.PNG)
+
+7 Zabezpiecz bazę danych hasłem "test" (0.5 pkt)
+
+
+[sprawozdanie](/materialy-access/sprawdzian/sprawozdanie2.odt)
+
+
+
+
