@@ -29,7 +29,8 @@ Galeria sklada sie z:
  - obrazka
  - informacji o dacie dodania pliku
  - opis autora (komentarz z pliku) z ograniczeniem do 255 znakow
- 
+ - rozmiar pliku w MB
+ - nazwa pliku
  
  Przykladowa galeria zdjec ![galeria zdjec](/images/zadania-php/galeria.png)
  
@@ -41,7 +42,7 @@ Galeria sklada sie z:
  Wynik pracy przedstawic w formie screenshotow w dokumencie odt.
  
  
- - [welcome to php](https://www.codecademy.com/courses/web-beginner-en-StaFQ/resume?curriculum_id=5124ef4c78d510dd89003eb8)
+ - ()welcome to php](https://www.codecademy.com/courses/web-beginner-en-StaFQ/resume?curriculum_id=5124ef4c78d510dd89003eb8)
  - [if else](https://www.codecademy.com/courses/web-beginner-en-QF3Wb/resume?curriculum_id=5124ef4c78d510dd89003eb8)
  - [switch](https://www.codecademy.com/courses/web-beginner-en-jZv2E/resume?curriculum_id=5124ef4c78d510dd89003eb8)
  - [arrays](https://www.codecademy.com/courses/web-beginner-en-8a35h/resume?curriculum_id=5124ef4c78d510dd89003eb8)
