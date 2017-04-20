@@ -24,6 +24,11 @@ Wymagania:
 
 
 
+Uwaga:
+Prace rozpoczynamy od CSS i podstron.
+ - https://developer.mozilla.org/pl/docs/Web/CSS/border-radius
+ - https://www.creamsoft.com/blog/jak-wysrodkowac-element-na-stronie-www-za-pomoca-css-odpowiedz-na-wszystkie-pytania.html
+ 
 Podpowiedź:
 
 ```php
@@ -44,3 +49,6 @@ if (isset($_POST['update_button'])) {
 }
 
 ```
+
+
+
