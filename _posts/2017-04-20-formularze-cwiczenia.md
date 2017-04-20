@@ -18,9 +18,13 @@ Po kliknieciu w wybrany przycisk przechodzimy do strony wyniki.php.
 ![](/images/zadania-php/proste_dzialania2.png)
 
 Wymagania:
+ - css w zewnetrznym pliku styl.css
+ - dwa pliki: index.php oraz wyniki.php
+ - strona wykonana zgodnie ze wzorem
+ - formularz przenosi na odpowiednia strone
  - wyswietla sie wynik
- - w tytule okna wyswietla sie wybrane dzialanie
- - calosc jest wysrodkowana
+ 
+Formularz wykonujemy wykorzystujac GET lub POST.
 
 
 
