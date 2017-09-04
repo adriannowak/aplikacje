@@ -15,7 +15,7 @@ layout: post
  - JS w HTML 
  - Instrukcje i wyrażenia
  - Składnia (komentarze, średniki, nazwy zmiennych)
- - Rodzaje zmiennych (typy prymitywne/skalarne, obiekty/złożone typy danych)
+ - Rodzaje zmiennych (typy prymitywne/skalarne, obiekty/złożone typy danych, tablice i obiekty, null, undefined)
  - Typ zmiennej, rodzaj obiektu
  - Operatory (arytmetyczne, porownania, bitowe, logiczne)
 
@@ -34,6 +34,13 @@ layout: post
  Metody Number:
   - toFixed
   - toString(radix)
+  
+ Metody Math:
+  - pow
+  - sqrt
+  - sin, cos, tan
+  - min, max
+  - random [0,1)
   
   Przykad: Number(1234.2).toFixed(0), Number(10.0).toString(2)
   
@@ -60,6 +67,12 @@ Zadanie:
 Zadanie:
  - zamien na postac binarna liczbe 12345, 333212, 0.5
 
+Zadanie:
+ - zadeklaruj zmienna var celciusz = "20"
+ - sprawdz typ zmiennej
+ - zamien string -> number
+ - wykonaj zamiane stopni celciusza na Farenheita (32+ 9/5 * T)
+ 
 # T3: Typ [Boolean](http://speakingjs.com/es5/ch10.html)
  - 3 metody Boolean(wartosc), value ? true : false, !!value
  - Operatory logiczne (wartosc domyslna)
@@ -90,7 +103,7 @@ Zadanie:
  - Calosc zapisz do zmiennej zdanie2
  
 
-# T5: Tablice:
+# T5: [Tablice](http://speakingjs.com/es5/ch18.html):
  - deklarowanie tablic var arr = [1,2,3]
  - pobieranie elementu [n]
  - length
@@ -98,8 +111,13 @@ Zadanie:
  - pop
  - shift
  - unshift
+ - delete
  - join
  - sort
+ - some
+ - every
+ - reduce
+ 
  Iterowanie po elementach tablicy
  [1,2,3].forEach(function(e) -> {console.log(e})
  [1,2,3].map(function(e) -> {String(e).toUpperCase()})
@@ -114,3 +132,14 @@ Zadanie:
   - Zamien tablice na tekst, imiona laczac przecinkiem
   
  
+ 
+ 
+# T6: [Obiekty](http://speakingjs.com/es5/ch08.html#object_values)
+ - window
+ - navigator
+ - document
+ - location
+ - history
+
+
+# T7 
