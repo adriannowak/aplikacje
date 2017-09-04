@@ -1,32 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4fee7e0d-f5a7-4597-aaa2-5ba3ee96d30b" name="Default" comment="t1,t2">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2017-09-01-info.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2017-09-04-javascript.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2016-09-01-info.md" afterPath="$PROJECT_DIR$/_old/2016-09-01-info.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2017-02-01-powtorzenie-wiadomosci-sql.md" afterPath="$PROJECT_DIR$/_old/2017-02-01-powtorzenie-wiadomosci-sql.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2017-02-26-podzial-na-grupy.md" afterPath="$PROJECT_DIR$/_old/2017-02-26-podzial-na-grupy.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2017-02-27-podstawy-programowania.md" afterPath="$PROJECT_DIR$/_old/2017-02-27-podstawy-programowania.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2017-02-28-jezyk-php-wprowadzenie.md" afterPath="$PROJECT_DIR$/_old/2017-02-28-jezyk-php-wprowadzenie.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2017-03-02-sprawdzian-wiadomosci-sql.md" afterPath="$PROJECT_DIR$/_old/2017-03-02-sprawdzian-wiadomosci-sql.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2017-03-03-typy-danych-cz1.md" afterPath="$PROJECT_DIR$/_old/2017-03-03-typy-danych-cz1.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2017-03-05-narzedzia-programistyczne.md" afterPath="$PROJECT_DIR$/_old/2017-03-05-narzedzia-programistyczne.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2017-03-05-typy-danych-cz2.md" afterPath="$PROJECT_DIR$/_old/2017-03-05-typy-danych-cz2.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2017-03-07-operatory-w-php-i-instrukcje-sterujace.md" afterPath="$PROJECT_DIR$/_old/2017-03-07-operatory-w-php-i-instrukcje-sterujace.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2017-03-07-przyklad-kodu-z-wykorzystaniem-html.md" afterPath="$PROJECT_DIR$/_old/2017-03-07-przyklad-kodu-z-wykorzystaniem-html.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2017-03-09-funkcje-w-php.md" afterPath="$PROJECT_DIR$/_old/2017-03-09-funkcje-w-php.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2017-03-19-powtorzenie-wiadomosci-access.md" afterPath="$PROJECT_DIR$/_old/2017-03-19-powtorzenie-wiadomosci-access.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2017-03-24-pytania.md" afterPath="$PROJECT_DIR$/_old/2017-03-24-pytania.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2017-03-24-sortowanie-tablic.md" afterPath="$PROJECT_DIR$/_old/2017-03-24-sortowanie-tablic.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2017-03-24-sprawdzian-access.md" afterPath="$PROJECT_DIR$/_old/2017-03-24-sprawdzian-access.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2017-03-30-data-i-czas.md" afterPath="$PROJECT_DIR$/_old/2017-03-30-data-i-czas.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2017-03-31-formularze-kontrolki1.md" afterPath="$PROJECT_DIR$/_old/2017-03-31-formularze-kontrolki1.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2017-03-31-formularze-kontrolki2.md" afterPath="$PROJECT_DIR$/_old/2017-03-31-formularze-kontrolki2.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2017-04-12-operacje-na-plikach.md" afterPath="$PROJECT_DIR$/_old/2017-04-12-operacje-na-plikach.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2017-04-20-formularze-cwiczenia.md" afterPath="$PROJECT_DIR$/_old/2017-04-20-formularze-cwiczenia.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2017-04-20-formularze-cwiczenia2.md" afterPath="$PROJECT_DIR$/_old/2017-04-20-formularze-cwiczenia2.md" />
+    <list default="true" id="4fee7e0d-f5a7-4597-aaa2-5ba3ee96d30b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-09-01-info.md" afterPath="$PROJECT_DIR$/_posts/2017-09-01-info.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -61,8 +38,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2017-09-01-info.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-3767">
-                <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+              <first_editor relative-caret-position="-198">
+                <caret line="10" column="70" lean-forward="false" selection-start-line="10" selection-start-column="70" selection-end-line="10" selection-end-column="70" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -74,8 +51,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2017-09-04-javascript.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="432">
-                <caret line="24" column="4" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+              <first_editor relative-caret-position="-27">
+                <caret line="24" column="52" lean-forward="true" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -253,6 +230,34 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="aplikacje" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aplikacje" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aplikacje" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="materialy-js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aplikacje" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aplikacje" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -470,49 +475,7 @@
       <workItem from="1495135591823" duration="87000" />
       <workItem from="1496815751407" duration="36000" />
       <workItem from="1504444700335" duration="7279000" />
-      <workItem from="1504539840804" duration="130000" />
-    </task>
-    <task id="LOCAL-00039" summary="t1,t2">
-      <created>1488789363780</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1488789363780</updated>
-    </task>
-    <task id="LOCAL-00040" summary="t1,t2">
-      <created>1488792915092</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1488792915092</updated>
-    </task>
-    <task id="LOCAL-00041" summary="t1,t2">
-      <created>1488793308218</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1488793308218</updated>
-    </task>
-    <task id="LOCAL-00042" summary="t1,t2">
-      <created>1488793336651</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1488793336651</updated>
-    </task>
-    <task id="LOCAL-00043" summary="t1,t2">
-      <created>1488793568233</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1488793568233</updated>
-    </task>
-    <task id="LOCAL-00044" summary="t1,t2">
-      <created>1488795161917</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1488795161917</updated>
+      <workItem from="1504539840804" duration="8737000" />
     </task>
     <task id="LOCAL-00045" summary="t1,t2">
       <created>1488877193424</created>
@@ -815,33 +778,75 @@
       <option name="project" value="LOCAL" />
       <updated>1493187583014</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="t1,t2">
+      <created>1504539977999</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1504539978000</updated>
+    </task>
+    <task id="LOCAL-00089" summary="t1,t2">
+      <created>1504540180107</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1504540180107</updated>
+    </task>
+    <task id="LOCAL-00090" summary="t1,t2">
+      <created>1504545979517</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1504545979517</updated>
+    </task>
+    <task id="LOCAL-00091" summary="t1,t2">
+      <created>1504546055251</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1504546055252</updated>
+    </task>
+    <task id="LOCAL-00092" summary="t1,t2">
+      <created>1504547955210</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1504547955211</updated>
+    </task>
+    <task id="LOCAL-00093" summary="t1,t2">
+      <created>1504548039122</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1504548039122</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="131403000" />
+    <option name="totallyTimeSpent" value="140010000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2838428" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2838428" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33010754" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1068,8 +1073,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2017-09-01-info.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-3767">
-            <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <first_editor relative-caret-position="-198">
+            <caret line="10" column="70" lean-forward="false" selection-start-line="10" selection-start-column="70" selection-end-line="10" selection-end-column="70" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1079,8 +1084,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2017-09-04-javascript.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="432">
-            <caret line="24" column="4" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+          <first_editor relative-caret-position="-27">
+            <caret line="24" column="52" lean-forward="true" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
             <folding />
           </first_editor>
           <second_editor />
