@@ -9,7 +9,6 @@ layout: post
  - [dokumentacja speakingjs](http://speakingjs.com/es5/index.html)
  - [kurs JS](http://shebang.pl/kursy/wszystko-jasne/)
 
-<script src="https://gist.github.com/adriannowak/850fcfd940686ba1fdab741756a45881.js"></script>
 
 # T1: Struktura i składnia języka JavaScript
  - JS w HTML, document.write, console.log
@@ -18,6 +17,8 @@ layout: post
  - Rodzaje zmiennych (typy prymitywne/skalarne, obiekty/złożone typy danych, tablice i obiekty, null, undefined)
  - Typ zmiennej, rodzaj obiektu
  - Operatory (arytmetyczne, porownania, bitowe, logiczne)
+
+<script src="https://gist.github.com/adriannowak/850fcfd940686ba1fdab741756a45881.js"></script>
 
 # T2: Skalarne typy danych - Typ liczbowy [Number](http://speakingjs.com/es5/ch11.html)
  - zapis dziesiętny, wykładniczy, ósemkowy i szesnastkowy (042, 10, 0x lub 0X, 1E-10)
