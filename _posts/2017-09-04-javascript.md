@@ -12,7 +12,7 @@ layout: post
 <script src="https://gist.github.com/adriannowak/850fcfd940686ba1fdab741756a45881.js"></script>
 
 # T1: Struktura i składnia języka JavaScript
- - JS w HTML 
+ - JS w HTML, document.write, console.log
  - Instrukcje i wyrażenia
  - Składnia (komentarze, średniki, nazwy zmiennych)
  - Rodzaje zmiennych (typy prymitywne/skalarne, obiekty/złożone typy danych, tablice i obiekty, null, undefined)
