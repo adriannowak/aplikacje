@@ -12,7 +12,7 @@ layout: post
 
 
 Liczby:
-- [jak obliczać?] (https://www.matematyka.pl/181848.htm#p5162809)
+- [jak obliczać?](https://www.matematyka.pl/181848.htm#p5162809)
 - [dec -> bin](http://www-users.mat.umk.pl/~zssz/nsi2009/konw.pdf)
 
 Przyklad na lekcji
