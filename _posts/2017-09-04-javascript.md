@@ -73,6 +73,9 @@ Zadanie:
  - sprawdz typ zmiennej
  - zamien string -> number
  - wykonaj zamiane stopni celciusza na Farenheita (32+ 9/5 * T)
+
+<script src="https://gist.github.com/adriannowak/7f386ef83e1a569421382f691d33776a.js"></script>
+// https://www.nettecode.com/zadanie-3-ozyw-swoja-strone-javascript/
  
 # T3: Typ [Boolean](http://speakingjs.com/es5/ch10.html)
  - 3 metody Boolean(wartosc), value ? true : false, !!value
