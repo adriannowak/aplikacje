@@ -19,6 +19,7 @@ layout: post
  - Operatory (arytmetyczne, porownania, bitowe, logiczne)
 
 <script src="https://gist.github.com/adriannowak/850fcfd940686ba1fdab741756a45881.js"></script>
+<iframe width="640" height="360" src="https://realtimeboard.com/app/embed/o9J_k0O00kM=/?" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 # T2: Skalarne typy danych - Typ liczbowy [Number](http://speakingjs.com/es5/ch11.html)
  - zapis dziesiętny, wykładniczy, ósemkowy i szesnastkowy (042, 10, 0x lub 0X, 1E-10)
