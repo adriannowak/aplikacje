@@ -18,7 +18,7 @@ layout: post
  - Typ zmiennej, rodzaj obiektu
  - Operatory (arytmetyczne, porownania, bitowe, logiczne)
 
-<script src="https://gist.github.com/adriannowak/850fcfd940686ba1fdab741756a45881.js"></script>
+<script src="https://gist.github.com/adriannowak/850fcfd940686ba1fdab741756a45881.js"> </script>
 
 [Wirtualna tablica](https://realtimeboard.com/app/embed/o9J_k0O00kM=/?)
 
