@@ -24,7 +24,34 @@ layout: post
 
 <script src="https://gist.github.com/adriannowak/850fcfd940686ba1fdab741756a45881.js"> </script>
 
+Zadanie:
 
+Stworz dwa pliki: index.html oraz skrypt.js
+W skrypt.js zadeklaruj dwie zmienne: A = 15 oraz B = 4
+
+1. Wyswietl typ zmiennej (wykorzystujac typeof) A oraz B w postaci:
+ "Typ zmiennej A = 15 to number"
+ "Typ zmiennej B = 4 to number"
+
+2. Wykonaj dzialania wykorzystujac:
+ - operatory arytmetyczne
+ - operatory bitowe
+Wyswietl na ekran wynik w postaci:
+ "15 + 4 = 19"
+ "15 - 4 = 15"
+ 
+ Przyklad:
+ '''javascript
+    var a = 15;
+    var b = 4;
+    
+    document.write(a);
+    document.write(" + ");
+    document.write(b);
+    document.write(" = ");
+    document.write(a+b);
+    
+ '''
 # T2: Skalarne typy danych - Typ liczbowy [Number](http://speakingjs.com/es5/ch11.html)
  - zapis dziesiętny, wykładniczy, ósemkowy i szesnastkowy (042, 10, 0x lub 0X, 1E-10)
  - konwersja dowolnej wartosci na liczbe (Number, +value, parseFloat)
