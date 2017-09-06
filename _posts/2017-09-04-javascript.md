@@ -30,19 +30,23 @@ Stworz dwa pliki: index.html oraz skrypt.js
 W skrypt.js zadeklaruj dwie zmienne: A = 15 oraz B = 4
 
 1. Wyswietl typ zmiennej (wykorzystujac typeof) A oraz B w postaci:
- "Typ zmiennej A = 15 to number"
- "Typ zmiennej B = 4 to number"
+ 
+ "Typ zmiennej A to number"
+ 
+ "Typ zmiennej B  to number"
 
 2. Wykonaj dzialania wykorzystujac:
  - operatory arytmetyczne
  - operatory bitowe
  
 Wyswietl na ekran wynik w postaci dzialania:
+ 
  "15 + 4 = 19"
+ 
  "15 - 4 = 15"
- " ... "
  
  Przyklad:
+ 
  '''javascript
     var a = 15;
     var b = 4;
