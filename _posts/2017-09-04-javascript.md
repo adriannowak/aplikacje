@@ -40,9 +40,10 @@ W skrypt.js zadeklaruj dwie zmienne: A = 15 oraz B = 4
  Przykladowy wynik na stronie:
  - "15 + 4 = 19"
  - "15 - 4 = 15"
+ 
  Przyklad:
  
- '''javascript
+ ```javascript
     var a = 15;
     var b = 4;
     
@@ -52,7 +53,8 @@ W skrypt.js zadeklaruj dwie zmienne: A = 15 oraz B = 4
     document.write(" = ");
     document.write(a+b);
     
- '''
+```
+
 # T2: Skalarne typy danych - Typ liczbowy [Number](http://speakingjs.com/es5/ch11.html)
  - zapis dziesiętny, wykładniczy, ósemkowy i szesnastkowy (042, 10, 0x lub 0X, 1E-10)
  - konwersja dowolnej wartosci na liczbe (Number, +value, parseFloat)
