@@ -37,9 +37,10 @@ W skrypt.js zadeklaruj dwie zmienne: A = 15 oraz B = 4
  - operatory arytmetyczne
  - operatory bitowe
  
-Wyswietl na ekran wynik w postaci:
+Wyswietl na ekran wynik w postaci dzialania:
  "15 + 4 = 19"
  "15 - 4 = 15"
+ " ... "
  
  Przyklad:
  '''javascript
