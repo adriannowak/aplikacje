@@ -33,14 +33,13 @@ W skrypt.js zadeklaruj dwie zmienne: A = 15 oraz B = 4
  - "Typ zmiennej A to number"
  - "Typ zmiennej B to number"
 
-2. Wykonaj dzialania wykorzystujac:
+2. Wykonaj dzialania wykorzystujac. Wyswietl na ekran wynik w postaci dzialania:
  - operatory arytmetyczne
  - operatory bitowe
  
-Wyswietl na ekran wynik w postaci dzialania:
+ Przykladowy wynik na stronie:
  - "15 + 4 = 19"
  - "15 - 4 = 15"
- 
  Przyklad:
  
  '''javascript
