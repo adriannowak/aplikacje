@@ -71,7 +71,7 @@ Podaj wartość zmiennej A w kolejnych krokach programu.
     console.log(a);
     a *= 2;
     console.log(a);
-
+l;.
 ```
 
 # T2: Skalarne typy danych - Typ liczbowy [Number](http://speakingjs.com/es5/ch11.html)
@@ -97,7 +97,7 @@ Podaj wartość zmiennej A w kolejnych krokach programu.
   - min, max
   - random [0,1)
   
-  Przykad: Number(1234.2).toFixed(0), Number(10.0).toString(2)
+ Przykad: Number(1234.2).toFixed(0), Number(10.0).toString(2)
   
 Zadanie:
  - dokonaj porównania metod transformacji dowolnej zmiennej na liczbę, a wynik wypisz w konsoli:
@@ -109,6 +109,19 @@ Zadanie:
    - 123#abc
 
 Przykład: +'', Number(''), parseFloat('')
+
+```
+Dla pustego napisu : 
+   + zwraca - wartosc XXX
+   toNumber zwraca - wartosc XXX
+   parseFloat- wartosc XXX
+   
+Dla wartosci null
+   + zwraca - wartosc XXX
+   toNumber zwraca - wartosc XXX
+   parseFloat- wartosc XXX
+```
+
 
 Zadanie (zeszyt) :
    - oblicz binarną wartość: 100, 0.25 oraz 11.25 wykorzystująć standard IEE757 (poj. precyzji)
