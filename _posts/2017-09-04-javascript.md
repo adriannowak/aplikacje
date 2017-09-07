@@ -100,15 +100,13 @@ l;.
  Przykad: Number(1234.2).toFixed(0), Number(10.0).toString(2)
   
 Zadanie:
- - dokonaj porównania metod transformacji dowolnej zmiennej na liczbę, a wynik wypisz w konsoli:
+ - dokonaj porównania metod transformacji zmiennej na liczbę, a wynik wypisz w konsoli:
    - Pusty napis ''
    - Wartość null
    - 1234,00
    - 1234.00
    - _spacja_12345
    - 123#abc
-
-Przykład: +'', Number(''), parseFloat('')
 
 ```
 Dla pustego napisu : 
@@ -122,6 +120,14 @@ Dla wartosci null
    parseFloat- wartosc XXX
 ```
 
+```javascript
+    var pustyNapis = "";
+    console.log("Dla pustego napisu:");
+    console.log( " + zwraca ")
+    console.log(+pustyNapis);
+    console.log(" toNumber zwraca ");
+    console.log(Number(pustyNapis));
+```
 
 Zadanie (zeszyt) :
    - oblicz binarną wartość: 100, 0.25 oraz 11.25 wykorzystująć standard IEE757 (poj. precyzji)
