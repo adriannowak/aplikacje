@@ -55,6 +55,25 @@ W skrypt.js zadeklaruj dwie zmienne: A = 15 oraz B = 4
     
 ```
 
+
+
+Zadanie:
+
+Podaj wartość zmiennej A w kolejnych krokach programu.
+
+```javascript
+    var a = 1;
+    console.log(a);
+    a++;
+    console.log(a);
+    console.log(a++)
+    a = a << 2
+    console.log(a);
+    a *= 2;
+    console.log(a);
+
+```
+
 # T2: Skalarne typy danych - Typ liczbowy [Number](http://speakingjs.com/es5/ch11.html)
  - zapis dziesiętny, wykładniczy, ósemkowy i szesnastkowy (042, 10, 0x lub 0X, 1E-10)
  - konwersja dowolnej wartosci na liczbe (Number, +value, parseFloat)
