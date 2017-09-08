@@ -142,11 +142,36 @@ Zadanie:
  - zamien na postac binarna liczbe 12345, 333212, 0.5
 
 Zadanie:
- - zadeklaruj zmienna var celciusz = "20"
+ - zadeklaruj zmienna var cel = "20"
  - sprawdz typ zmiennej
  - zamien string -> number
- - wykonaj zamiane stopni celciusza na Farenheita (32+ 9/5 * T)
+ - wykonaj zamiane stopni celsjusza na Farenheita (32+ 9/5 * T)
+ - wykonaj obliczenia ponownie dla wartosci 21, wynik zaokraglij do 2 miejsc po przecinku
+ 
+ 
+Zadanie:
+ - Wprowadz zmienne:
+   0b11101001, 0x0FF, 0888, 234
+   
+ - Oblicz minimum i maksimum. 
+ - Wynik przedstaw w systemie 2, 8, 10 i 16
+ 
+ ```
+ Min: XXXXX, (BIN: XXXXX, OCT: XXXXX, DEC: XXXXX, HEX : XXXXX)
+ Max: XXXXX, (BIN: XXXXX, OCT: XXXXX, DEC: XXXXX, HEX : XXXXX)
+```
 
+
+Zadanie: 
+
+- Wyznacz wartosc pierwiastka kwadratowego z 30.
+
+
+Zadanie:
+ - Wylosuj 6 liczb z przedzialu 1 - 49
+ - Wyswietl wynik
+ 
+ 
 <script src="https://gist.github.com/adriannowak/7f386ef83e1a569421382f691d33776a.js"></script>
 // https://www.nettecode.com/zadanie-3-ozyw-swoja-strone-javascript/
  
