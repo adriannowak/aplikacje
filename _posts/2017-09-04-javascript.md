@@ -230,6 +230,7 @@ Zadanie:
 
  
 Zadanie:
+
 W tekście "Elektroniczne Zakłady Naukowe, ul Braniborska 57, 50-123 Wrocław" przy użyciu metod String
 wyszukaj kod pocztowy. 
  - podziel tekst np. wzgledem , lub spacji
@@ -241,24 +242,24 @@ wyszukaj kod pocztowy.
 [Materialy obowiązkowe](https://www.w3schools.com/jsref/jsref_obj_regexp.asp)
 
  - RegExp
- - . $ ^ { [ ( | ) ] } * + ? \
+ - `. $ ^ { [ ( | ) ] } * + ? \`
  - metody .exec oraz .test
  - tekst
- - [test]
- - [^test]
- - [0-9], [a-zA-Z]
- - (wt|so|nd)
- - \d \D (digit)
- - \s \S (whitespace)
- - . 
- - {n}, {n,}, {n,m}
- - ? {0,1}
- - * {0,}
- - + {1,}
- - ^n, n$
- - i - ignore-case
- - g - global
- - m - multiline
+ - `[test]`
+ - `[^test]`
+ - `[0-9]`, [a-zA-Z]
+ - `(wt|so|nd)`
+ - `\d \D` (digit)
+ - `\s \S` (whitespace)
+ - `.` 
+ - `{n}`, {n,}, {n,m}
+ - `?` {0,1}
+ - `*` {0,}
+ - `+` {1,}
+ - `^n`, n$
+ - `i` - ignore-case
+ - `g` - global
+ - `m` - multiline
 
 Przykład: /test/i.test("TEST"), /(TAK|NIE)/i.test("TAK"), /[0-9]{2}-[0-9]{3}/.match("Wroclaw 12-222, Warszawa 44-333")
 
