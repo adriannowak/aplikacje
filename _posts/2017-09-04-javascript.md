@@ -22,8 +22,7 @@ layout: post
  - Typ zmiennej, rodzaj obiektu
  - Operatory (arytmetyczne, porownania, bitowe, logiczne)
 
-
-<script src="https://gist.github.com/adriannowak/850fcfd940686ba1fdab741756a45881.js"> </script>
+[KOD JS](https://gist.github.com/adriannowak/850fcfd940686ba1fdab741756a45881#file-javascript-js)
 
 Zadanie:
 
@@ -172,9 +171,6 @@ Zadanie:
  - Wylosuj 6 liczb z przedzialu 1 - 49
  - Wyswietl wynik
  
- 
-<script src="https://gist.github.com/adriannowak/7f386ef83e1a569421382f691d33776a.js"></script>
-// https://www.nettecode.com/zadanie-3-ozyw-swoja-strone-javascript/
  
 # T3: Typ [Boolean](http://speakingjs.com/es5/ch10.html)
  - 3 metody Boolean(wartosc), value ? true : false, !!value
