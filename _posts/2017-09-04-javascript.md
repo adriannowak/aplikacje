@@ -13,6 +13,7 @@ layout: post
 # T1: Struktura i składnia języka JavaScript
 
 [Wirtualna tablica](https://realtimeboard.com/app/embed/o9J_k0O00kM=/?)
+[Materiały dodatkowe](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Comparison_Operators)
 
  - JS w HTML, document.write, console.log
  - Instrukcje i wyrażenia
@@ -180,14 +181,35 @@ Zadanie:
  - Operatory logiczne (wartosc domyslna)
  - Operatory bitowe
  
+ 
+Zadanie:
+Podaj wartość wyrażenia:
+
+```javascript
+(false || true) && !(false && true)
+```
+
+```javascript
+((4 >= 6) || ("zielona" != "trawa")) && !(((12 * 2) == 144) && false)
+```
+
+```javascript
+Math.min(2, 4) + 100 < 0x22
+```
 
 # T4: Typ [Napisowy](http://speakingjs.com/es5/ch12.html)
+
+[Materiały uzupełniające](https://www.w3schools.com/jsref/jsref_obj_string.asp)
+[Tablica ASCII](https://stackoverflow.com/a/9539389)
+
   - 3 metody String(value), ''+value, value.toString()
   - dzielenie dlugiego tekstu
   - specjalne znaki \t \b \n
   - łączenie tekstów
   - length
   - charAt, []
+  - charCodeAt
+  - String.fromCharCode
   - substring, slice,
   - split
   - trim
@@ -195,6 +217,8 @@ Zadanie:
   - toLowerCase
   - indexOf
   - replace
+  - search
+  - match
 
 Zadanie:
  - Utworz zmienna var zdanie1 = "ala me KOTA"
@@ -203,9 +227,67 @@ Zadanie:
  - W drugim wyrazie popraw literke e na a
  - W trzecim wyrazie zamien KOTA -> kota
  - Calosc zapisz do zmiennej zdanie2
+
+ 
+Zadanie:
+W tekście "Elektroniczne Zakłady Naukowe, ul Braniborska 57, 50-123 Wrocław" przy użyciu metod String
+wyszukaj kod pocztowy. 
+ - podziel tekst np. wzgledem , lub spacji
+ - wyszukaj odpowiedni fragment "50-123 Wroclaw"
+ - ponowie podziel tekst wzgledem spacji
  
 
-# T5: [Tablice](http://speakingjs.com/es5/ch18.html):
+# T6: [Wyrażenia regularne]
+[Materialy obowiązkowe](https://www.w3schools.com/jsref/jsref_obj_regexp.asp)
+
+ - RegExp
+ - . $ ^ { [ ( | ) ] } * + ? \
+ - metody .exec oraz .test
+ - tekst
+ - [test]
+ - [^test]
+ - [0-9], [a-zA-Z]
+ - (wt|so|nd)
+ - \d \D (digit)
+ - \s \S (whitespace)
+ - . 
+ - {n}, {n,}, {n,m}
+ - ? {0,1}
+ - * {0,}
+ - + {1,}
+ - ^n, n$
+ - i - ignore-case
+ - g - global
+ - m - multiline
+
+Przykład: /test/i.test("TEST"), /(TAK|NIE)/i.test("TAK"), /[0-9]{2}-[0-9]{3}/.match("Wroclaw 12-222, Warszawa 44-333")
+
+ 
+Zadanie:
+Zadeklaruj zmienna haslo:
+ - wprowadz do zmiennej dowolny ciag znakow
+ - sprawdz czy zawiera 8 znakow
+ - sprawdz czy haslo zawiera litere
+ - sprawdz czy haslo zawiera cyfre
+ - jesli haslo spelnia 3 kryteria - wyswietl napis "MOCNE HASLO" w kolorze zielonym
+ - jesli haslo spelnia pierwsze oraz drugie lub trzecie - wyswietl napis "DOBRE HASLO"
+ - w przeciwnym razie "SLABE HASLO" w kolorze czerwonym
+ 
+ 
+Zadanie:
+Napisz wyrazenie regularne sprawdzajace:
+ - numer PESEL
+ - identyfikator NIP (DDD-DD-DD-DD)
+ - liczby binarne
+ - liczby heksadecymalne
+ 
+Zadanie:
+Napisz wyrażenie regularne dopasowujące datę w formacie "XX/XX/XXXX". 
+Wypróbuj je na łańcuchu "urodzeni 15/11/2003"
+
+
+
+# T7: [Tablice](http://speakingjs.com/es5/ch18.html):
  - deklarowanie tablic var arr = [1,2,3]
  - pobieranie elementu [n]
  - length
@@ -219,6 +301,7 @@ Zadanie:
  - some
  - every
  - reduce
+ - reverse
  
  Iterowanie po elementach tablicy
  [1,2,3].forEach(function(e) -> {console.log(e})
@@ -230,18 +313,39 @@ Zadanie:
   - Utworz tablice z imionami
   - Posortuj imiona alfabetycznie
   - Usun ostatni element
-  - Dodaj na poczatek imie 'Tomek'
+  - Dodaj na poczatek tablicy imie 'Tomek'
   - Zamien tablice na tekst, imiona laczac przecinkiem
+  
+ Zadanie:
+  - zadeklaruj tablice [1,2,3,"a","b","c"]
+  - sprawdz czy zawiera cyfry (typeof lub regexp)
+  - sprawdz czy zawiera litery
+  - sprawdz czy zawiera kod pocztowy
+  - sprawdz czy wszystkie elemeny sa literami
+  
+ Zadanie:
+  - Utworz tablice, ktora bedzie zawierala liczby i tekst, np. 1,2, "adam","anna", "PIOTR" 
+  - posortuj elementy:
+   - najpierw tekst wielkimi literami
+   - tekst malymi literami
+   - cyfry
+   
+ Podpowiedz: sprawdzmy najpierw typ zmiennej 
   
  
  
- 
 # T6: [Obiekty](http://speakingjs.com/es5/ch08.html#object_values)
+ - tworzenie wlasnych obiektow
  - window
  - navigator
  - document
  - location
  - history
+ 
+ 
+Zadanie:
+ - utworz obiekt zawieracy pola imie, nazwisko, wiek
+ - umiesc 3 osoby w tablicy
+ - posortuj rosnaco wg. nazwiska
+ - wyswietl wszystkie elementy posortowane
 
-
-# T7 
