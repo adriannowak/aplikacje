@@ -234,7 +234,7 @@ wyszukaj kod pocztowy.
  - ponowie podziel tekst wzgledem spacji
  
 
-# T6: [Wyrażenia regularne]
+# T5: [Wyrażenia regularne]
 [Materialy obowiązkowe](https://www.w3schools.com/jsref/jsref_obj_regexp.asp)
 
  - RegExp
@@ -284,7 +284,7 @@ Wypróbuj je na łańcuchu "urodzeni 15/11/2003"
 
 
 
-# T7: [Tablice](http://speakingjs.com/es5/ch18.html):
+# T6: [Tablice](http://speakingjs.com/es5/ch18.html):
  - deklarowanie tablic var arr = [1,2,3]
  - pobieranie elementu [n]
  - length
@@ -331,7 +331,61 @@ Wypróbuj je na łańcuchu "urodzeni 15/11/2003"
   
  
  
-# T6: [Obiekty](http://speakingjs.com/es5/ch08.html#object_values)
+# T6: Instrukcje warunkowe, pętle
+ - instrukcja if
+ - ? :
+ - for
+ - while
+ - do while
+ - continue
+ - break
+ 
+ 
+Zadanie:
+Napisz aplikajce sluzaca do zmiany oceny w postaci liczby na ocene slowna.
+Do pobrania oceny uzyj `document.prompt`. 
+Dozwolone wartosci: od 1 do 5
+Jesli wprowadzono bledny tekst lub liczbe wyswietl okno dialogowe ponownie.
+
+
+Zadanie:
+Napisz aplikacje sluzaca do dzielenia dwoch liczb. Do pobrania kazdej z nich zastosuj 
+okno dialogowe `window.prompt`. Wyklucz mozliwosc dzielenia przez 0.
+
+
+Zadanie:
+Przy uzyciu kodu HTML napisz ogolny wzor rownania kwadratowego. Wykorzystaj znaczniki `sup` oraz `var`
+Wczytaj przy uzyciu `window.prompt` trzy wartosci: A, B, C.
+Wynikiem aplikacji powinna byc wartosc delty oraz wartosc pierwiastkow rownania.
+
+W przypadku braku wyniku nalezy wyswietlic odpowiedni komunikat.
+
+Zadanie:
+Napisz apliacje, ktora wyswietli liczby parzyste od 0 do 100.
+
+Zadanie:
+Napisz aplikacje, ktora wyswietli liczby od 10 do 0.
+
+Zadanie:
+Napisz aplikacje, ktora wczyta liczby od uzytkownika do tablicy.
+W przypadku podania 0 program konczy dzialanie i wyswietla wszystkie wprowadzone wartosci.
+
+Zadanie:
+Napisz aplikacje ktorej zadaniem jest rozwiazanie problemu wydawania reszty.
+Problem ten polega na znalezieniu najmniej licznego zbioru monet o wartosci rownej wydawanej reszcie.
+
+`var N = [200, 100, 50, 20, 10, 5, 2, 1, 0.50, 0.20, 0.10, 0.05, 0.02, 0.01];`
+
+W praktyce mamy reszty 305.20
+ - idziemy od lewej strony po elementach tablicy
+ - 305.20 / 200 - ? 1
+ - 305.20 - 200 = 105.20
+ - idziemy dalej, 105.20 / 100 ? 1
+ - zostaje 5.20
+ 
+
+
+# T7: [Obiekty](http://speakingjs.com/es5/ch08.html#object_values)
  - tworzenie wlasnych obiektow
  - window
  - navigator
@@ -346,3 +400,5 @@ Zadanie:
  - posortuj rosnaco wg. nazwiska
  - wyswietl wszystkie elementy posortowane
 
+Zadanie:
+ - 
