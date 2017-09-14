@@ -200,7 +200,7 @@ Math.min(2, 4) + 100 < 0x22
 
   - 3 metody String(value), ''+value, value.toString()
   - dzielenie dlugiego tekstu
-  - specjalne znaki \t \b \n
+  - specjalne znaki \t \b \n \f \r \" \' \\
   - łączenie tekstów
   - length
   - charAt, []
@@ -215,6 +215,8 @@ Math.min(2, 4) + 100 < 0x22
   - replace
   - search
   - match
+  - fontcolor
+  - fontsize
 
 Zadanie:
  - Utworz zmienna var zdanie1 = "ala me KOTA"
@@ -236,6 +238,7 @@ wyszukaj kod pocztowy.
 
 # T5: [Wyrażenia regularne]
 [Materialy obowiązkowe](https://www.w3schools.com/jsref/jsref_obj_regexp.asp)
+[Testowanie wyrazen](http://regexr.com/)
 
  - RegExp
  - `. $ ^ { [ ( | ) ] } * + ? \`
@@ -247,6 +250,7 @@ wyszukaj kod pocztowy.
  - `(wt|so|nd)`
  - `\d \D` (digit)
  - `\s \S` (whitespace)
+ - `\w \W` (word)
  - `.` 
  - `{n}`, {n,}, {n,m}
  - `?` {0,1}
@@ -387,10 +391,19 @@ W praktyce mamy reszty 305.20
 
 # T7: [Obiekty](http://speakingjs.com/es5/ch08.html#object_values)
  - tworzenie wlasnych obiektow
- - window
+ - [window](https://www.w3schools.com/jsref/met_win_open.asp)
+   * prompt, alert, confirm
+   * open
+   * scrollX, scrollY, scrollTo(x,y)
+   * screen, screenX, screenY
+   * print
+   * setInterval, setTimeout, clearInterval, clearTimeout
  - navigator
+   * back, go, length
  - document
  - location
+   * reload
+   * host, 
  - history
  
  
