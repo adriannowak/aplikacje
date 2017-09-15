@@ -333,8 +333,13 @@ Wypróbuj je na łańcuchu "urodzeni 15/11/2003"
    
  Podpowiedz: sprawdzmy najpierw typ zmiennej 
   
- 
- 
+ Zadanie:
+ Zadeklaruj tablice wielowymiarowa (10 wierszy, 10 kolumn)
+ Do tablicy wierszami wprowadz kolejne liczby 3 cyfrowe. `w0= 100, w1= 200,  w2= 300, ...`
+  - Przy petli wyswietl dane zachowujac podzial na wiersze i kolumny.
+  - Oblicz sume na obu przekatnych tablicy
+  - Oblicz srednia na obu przekatnych tablicy
+  
 # T6: Instrukcje warunkowe, pętle
  - instrukcja if
  - ? :
@@ -398,20 +403,21 @@ W praktyce mamy reszty 305.20
    * screen, screenX, screenY
    * print
    * setInterval, setTimeout, clearInterval, clearTimeout
- - navigator
+ - history
    * back, go, length
  - document
+   * title
+   * createElement, createTextNode, 
+   * appendChild, insertBefore, removeChild, replaceChild
+   * getElementById, querySelectorAll, getElementByClassName, getElementsByTagName
+   * innerHTML
+   * .attribute (src, href, ...)
+   * .style (color, backgroundColor, ...)
+   * .cookie
  - location
    * reload
    * host, 
- - history
+ - navigator
  
  
-Zadanie:
- - utworz obiekt zawieracy pola imie, nazwisko, wiek
- - umiesc 3 osoby w tablicy
- - posortuj rosnaco wg. nazwiska
- - wyswietl wszystkie elementy posortowane
-
-Zadanie:
- - 
+ 
