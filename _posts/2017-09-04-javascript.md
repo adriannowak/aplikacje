@@ -348,6 +348,8 @@ Wypróbuj je na łańcuchu "urodzeni 15/11/2003"
  - do while
  - continue
  - break
+ - switch
+
  
  
 Zadanie:
