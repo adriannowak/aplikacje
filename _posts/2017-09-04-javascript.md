@@ -340,7 +340,7 @@ Wypróbuj je na łańcuchu "urodzeni 15/11/2003"
   - Oblicz sume na obu przekatnych tablicy
   - Oblicz srednia na obu przekatnych tablicy
   
-# T6: Instrukcje warunkowe, pętle
+# T7: Instrukcje warunkowe, pętle
  - instrukcja if
  - ? :
  - for
@@ -352,7 +352,7 @@ Wypróbuj je na łańcuchu "urodzeni 15/11/2003"
  
 Zadanie:
 Napisz aplikajce sluzaca do zmiany oceny w postaci liczby na ocene slowna.
-Do pobrania oceny uzyj `document.prompt`. 
+Do pobrania oceny uzyj `window.prompt`. 
 Dozwolone wartosci: od 1 do 5
 Jesli wprowadzono bledny tekst lub liczbe wyswietl okno dialogowe ponownie.
 
@@ -394,7 +394,7 @@ W praktyce mamy reszty 305.20
  
 
 
-# T7: [Obiekty](http://speakingjs.com/es5/ch08.html#object_values)
+# T8: [Obiekty](http://speakingjs.com/es5/ch08.html#object_values)
  - tworzenie wlasnych obiektow
  - [window](https://www.w3schools.com/jsref/met_win_open.asp)
    * prompt, alert, confirm
@@ -403,14 +403,16 @@ W praktyce mamy reszty 305.20
    * screen, screenX, screenY
    * print
    * setInterval, setTimeout, clearInterval, clearTimeout
+   * screen
  - history
    * back, go, length
  - document
    * title
+   * lastModified
    * createElement, createTextNode, 
    * appendChild, insertBefore, removeChild, replaceChild
    * getElementById, querySelectorAll, getElementByClassName, getElementsByTagName
-   * innerHTML
+   * node, Element, Attribute
    * .attribute (src, href, ...)
    * .style (color, backgroundColor, ...)
    * .cookie
@@ -419,5 +421,9 @@ W praktyce mamy reszty 305.20
    * host, 
  - navigator
  
+ Zadanie:
+ Otworz witryne internetowa http://ezn.edu.pl w nowym oknie. Odczekaj 10 sekund po czym zamknij okno.
  
+ Zadanie:
+ Otworz w nowym oknie witryne internetowa http://ezn.edu.pl.  Wysrodkuj element. Wykorzystaj `window.screen`.
  
