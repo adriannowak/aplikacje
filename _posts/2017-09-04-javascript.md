@@ -395,9 +395,29 @@ W praktyce mamy reszty 305.20
  - zostaje 5.20
  
 
-
-# T8: [Obiekty](http://speakingjs.com/es5/ch08.html#object_values)
- - tworzenie wlasnych obiektow
+# T8: [Zdarzenia](https://www.w3schools.com/js/js_events.asp)
+ - tworzenie zdarzen (onXXXXX, getElement)
+ - tworzenie funkcji, argumenty 
+ - onclick, onload, onmousedown, onmouseout, onmouseup, onmouseover, onselect, onsubmit
+ - [pozostale zdarzenia](https://www.w3schools.com/jsref/dom_obj_event.asp)
+ 
+ 
+ Zadanie:
+  - Zadanie 2 strona 325
+ 
+ Zadanie:
+  - Zadanie 3 strona 325
+ 
+ Zadanie:
+  - Zadanie 4 strona 325
+  
+ Zadanie:
+  - Zadanie egzaminacyjne 1 strona 326
+  
+ Zadanie:
+  - 
+# T9: [Obiekty](http://speakingjs.com/es5/ch08.html#object_values)
+ - tworzenie wlasnych obiektow (konstruktor, [literal](https://www.nafrontendzie.pl/tworzenie-obiektow-javascript))
  - [window](https://www.w3schools.com/jsref/met_win_open.asp)
    * prompt, alert, confirm
    * open
@@ -423,9 +443,38 @@ W praktyce mamy reszty 305.20
    * host, 
  - navigator
  
- Zadanie:
+Zadanie:
+ Utworz obiekt (wykorzystujac konstruktor oraz notacje iteralowa) zawierający pola:
+  - imie, 
+  - nazwisko,
+  - wiek
+  
+Zadanie:
+  Utworz obiekty reprezentujacy ucznia w klasie:
+   - imie,
+   - nazwisko,
+   - numer z dziennika
+   
+   Wprowadz obiekty do tablicy. Posortuj i wyswietl uczniow: 
+    - wg. kolejnosci dziennika
+    - alfabetycznie (nazwisko, imie)
+    
+Zadanie:
+  Zadanie egzaminacyjne 1 strona 322
+  
+Zadanie:
+  Zadanie egzaminacyjne 2 strona 323
+
+Zadanie:
+   Zadanie egzaminacyjne 2 strona 327
+
+  
+Zadanie:
  Otworz witryne internetowa http://ezn.edu.pl w nowym oknie. Odczekaj 10 sekund po czym zamknij okno.
  
- Zadanie:
+Zadanie:
  Otworz w nowym oknie witryne internetowa http://ezn.edu.pl.  Wysrodkuj element. Wykorzystaj `window.screen`.
+ 
+ 
+ 
  
