@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4fee7e0d-f5a7-4597-aaa2-5ba3ee96d30b" name="Default" comment="t1,t2">
+    <list default="true" id="4fee7e0d-f5a7-4597-aaa2-5ba3ee96d30b" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2017-10-05-egzamin.md" afterPath="$PROJECT_DIR$/_old/2017-10-05-egzamin.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-09-04-javascript.md" afterPath="$PROJECT_DIR$/_posts/2017-09-04-javascript.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -56,12 +56,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-09-04-javascript.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2017-09-04-javascript.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2017-09-04-javascript.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="423">
-                <caret line="427" column="108" lean-forward="false" selection-start-line="427" selection-start-column="108" selection-end-line="427" selection-end-column="108" />
+              <first_editor relative-caret-position="8370">
+                <caret line="465" column="29" lean-forward="false" selection-start-line="465" selection-start-column="29" selection-end-line="465" selection-end-column="29" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-10-05-egzamin.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_old/2017-10-05-egzamin.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="144">
+                <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -193,6 +206,7 @@
         <option value="$PROJECT_DIR$/_posts/2017-04-20-formularze-cwiczenia2.md" />
         <option value="$PROJECT_DIR$/_posts/2017-09-01-info.md" />
         <option value="$PROJECT_DIR$/_posts/2017-09-04-javascript.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-10-05-egzamin.md" />
       </list>
     </option>
   </component>
@@ -231,6 +245,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -253,7 +269,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="materialy-js" />
+              <option name="myItemId" value="egzamin" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -267,7 +283,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
+              <option name="myItemId" value="_posts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -287,15 +303,13 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="web.server" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="/tmp/98082110355" />
     <property name="nodejs_interpreter_path" value="/usr/bin/node" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="/usr/bin/node" />
@@ -304,14 +318,15 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_old" />
       <recent name="$PROJECT_DIR$/materialy-access/sprawdzian" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_posts" />
+      <recent name="$PROJECT_DIR$/egzamin" />
       <recent name="$PROJECT_DIR$/_old" />
       <recent name="$PROJECT_DIR$/images/zadania-php" />
       <recent name="$PROJECT_DIR$/materialy-access/sprawdzian" />
-      <recent name="$PROJECT_DIR$/pozostale" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -486,41 +501,11 @@
       <workItem from="1505368753486" duration="3464000" />
       <workItem from="1505450616248" duration="998000" />
       <workItem from="1505796781678" duration="858000" />
-    </task>
-    <task id="LOCAL-00071" summary="t1,t2">
-      <created>1491379520864</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
-      <option name="project" value="LOCAL" />
-      <updated>1491379520864</updated>
-    </task>
-    <task id="LOCAL-00072" summary="t1,t2">
-      <created>1491460250762</created>
-      <option name="number" value="00072" />
-      <option name="presentableId" value="LOCAL-00072" />
-      <option name="project" value="LOCAL" />
-      <updated>1491460250763</updated>
-    </task>
-    <task id="LOCAL-00073" summary="t1,t2">
-      <created>1491463836298</created>
-      <option name="number" value="00073" />
-      <option name="presentableId" value="LOCAL-00073" />
-      <option name="project" value="LOCAL" />
-      <updated>1491463836298</updated>
-    </task>
-    <task id="LOCAL-00074" summary="t1,t2">
-      <created>1491463876961</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
-      <option name="project" value="LOCAL" />
-      <updated>1491463876961</updated>
-    </task>
-    <task id="LOCAL-00075" summary="t1,t2">
-      <created>1491463956622</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
-      <option name="project" value="LOCAL" />
-      <updated>1491463956622</updated>
+      <workItem from="1505798003168" duration="922000" />
+      <workItem from="1506240005127" duration="3169000" />
+      <workItem from="1507179746070" duration="1210000" />
+      <workItem from="1507450284302" duration="10000" />
+      <workItem from="1507613548247" duration="18000" />
     </task>
     <task id="LOCAL-00076" summary="t1,t2">
       <created>1491813637158</created>
@@ -830,17 +815,52 @@
       <option name="project" value="LOCAL" />
       <updated>1505451610729</updated>
     </task>
-    <option name="localTasksCounter" value="120" />
+    <task id="LOCAL-00120" summary="t1,t2">
+      <created>1505798290056</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1505798290058</updated>
+    </task>
+    <task id="LOCAL-00121" summary="t1,t2">
+      <created>1506241973165</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1506241973166</updated>
+    </task>
+    <task id="LOCAL-00122" summary="egzamin">
+      <created>1507179990433</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1507179990434</updated>
+    </task>
+    <task id="LOCAL-00123" summary="egzamin">
+      <created>1507180053659</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1507180053659</updated>
+    </task>
+    <task id="LOCAL-00124" summary="egzamin">
+      <created>1507180274387</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1507180274387</updated>
+    </task>
+    <option name="localTasksCounter" value="125" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="160168000" />
+    <option name="totallyTimeSpent" value="165497000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29039302" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29039302" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33010754" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -874,14 +894,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="TEST MD" />
     <MESSAGE value="t1,t2" />
-    <option name="LAST_COMMIT_MESSAGE" value="t1,t2" />
+    <MESSAGE value="egzamin" />
+    <option name="LAST_COMMIT_MESSAGE" value="egzamin" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.md" />
     <entry file="file://$PROJECT_DIR$/CNAME">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1044,8 +1064,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2017-09-04-javascript.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="423">
-            <caret line="427" column="108" lean-forward="false" selection-start-line="427" selection-start-column="108" selection-end-line="427" selection-end-column="108" />
+          <first_editor relative-caret-position="8370">
+            <caret line="465" column="29" lean-forward="false" selection-start-line="465" selection-start-column="29" selection-end-line="465" selection-end-column="29" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1106,6 +1126,17 @@
     <entry file="file://$PROJECT_DIR$/materialy-access/sprawdzian/schemat.PNG">
       <provider selected="true" editor-type-id="images">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_old/2017-10-05-egzamin.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="144">
+            <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
       </provider>
     </entry>
   </component>
