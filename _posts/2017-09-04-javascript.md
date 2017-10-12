@@ -478,3 +478,18 @@ Zadanie:
  
  
  
+ ## Zadanie 1
+ Wykonaj strone z galeria zdjec. Witryna powinna zawierac:
+  - naglowek z opisem
+  - blok wyswietlajacy liczbe zdjec
+  - miniatury (siatka 4 w rzedzie)
+  
+ Miniatury wyswietl przy uzyciu JS. Dane przechowaj w postaci tablicy obiektow Zdjecie.
+ 
+ 1. Pod obrazem wyswietl nazwe pliku (pobierz z url lub w postaci osobnego pola w obiekcie)
+ 2. Po kliknieciu w obraz wyswietl go w pelnej rozdzielczosci (nowe okno)
+ 3. Ponizej galerii wyswietl formularz umozliwiajacy wprowadzenie nowego obrazu (pole z adresem URL oraz przycisk Zapisz)
+ 
+ Wprowadz do galerii 8 zdjec.
+ 
+ ![galeria](http://aplikacje.vector.org.pl/materialy-js/galeria.png)
