@@ -7,11 +7,11 @@ layout: post
 # Zadanie 1
 
 Wykorzystując mechanizm XMLHttpRequest pobierz :
- - aktualna temperature (w C) (`5/9 × ( t [ °F ] - 32 `))
+ - aktualna temperature (w C) `5/9 × ( t [ °F ] - 32 )`
  - wilgotnosc 
  - cisnienie
 
-Adres serwisu REST: https://goo.gl/9WKujX
+Adres serwisu REST: https://goo.gl/9WKujX (https://cors-anywhere.herokuapp.com/http://samples.openweathermap.org/data/2.5/weather?q=Warsaw,uk&appid=b1b15e88fa797225412429c1c50c122a1)
 
 # Zadanie 2
 
