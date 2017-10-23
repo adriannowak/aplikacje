@@ -7,7 +7,7 @@ layout: post
 # Zadanie 1
 
 Wykorzystując mechanizm XMLHttpRequest pobierz :
- - aktualna temperature (w C) `5/9 × ( t [ °F ] - 32 )`
+ - aktualna temperature (w C) `t [ °C ] - 273.15`
  - wilgotnosc 
  - cisnienie
 
