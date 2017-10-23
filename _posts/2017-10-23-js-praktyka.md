@@ -17,4 +17,4 @@ Adres serwisu REST: https://goo.gl/9WKujX (https://cors-anywhere.herokuapp.com/h
 
 Wykorzystujac JavaScript i tablice do przechowywania danych wygeneruj tabliczke mnozenia 12 x 12. Pokoloruj przekatne.
 
-[!tabliczka](https://www.kblearningcenter.com/components/com_virtuemart/shop_image/product/full/168069.jpg)
+![tabliczka](https://www.kblearningcenter.com/components/com_virtuemart/shop_image/product/full/168069.jpg)
