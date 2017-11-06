@@ -4,7 +4,6 @@
     <list default="true" id="4fee7e0d-f5a7-4597-aaa2-5ba3ee96d30b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-10-23-jquery.md" afterPath="$PROJECT_DIR$/_posts/2017-10-23-jquery.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-11-02-sql.md" afterPath="$PROJECT_DIR$/_posts/2017-11-02-sql.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -31,12 +30,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2017-11-02-sql.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2017-11-02-sql.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2017-11-02-sql.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="162">
-                <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -44,12 +43,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-10-23-jquery.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="2017-10-23-jquery.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2017-10-23-jquery.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="90">
-                <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <first_editor relative-caret-position="18">
+                <caret line="1" column="24" lean-forward="false" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -229,8 +228,8 @@
         <option value="$PROJECT_DIR$/_includes/pass.html" />
         <option value="$PROJECT_DIR$/_old/2017-10-05-egzamin.md" />
         <option value="$PROJECT_DIR$/_posts/2017-10-17-js-teoria.md" />
-        <option value="$PROJECT_DIR$/_posts/2017-10-23-jquery.md" />
         <option value="$PROJECT_DIR$/_posts/2017-11-02-sql.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-10-23-jquery.md" />
       </list>
     </option>
   </component>
@@ -551,14 +550,7 @@
       <workItem from="1508332283231" duration="166000" />
       <workItem from="1509612263466" duration="1583000" />
       <workItem from="1509972576700" duration="1251000" />
-      <workItem from="1509991179638" duration="847000" />
-    </task>
-    <task id="LOCAL-00104" summary="t1,t2">
-      <created>1504708111184</created>
-      <option name="number" value="00104" />
-      <option name="presentableId" value="LOCAL-00104" />
-      <option name="project" value="LOCAL" />
-      <updated>1504708111184</updated>
+      <workItem from="1509991179638" duration="896000" />
     </task>
     <task id="LOCAL-00105" summary="t1,t2">
       <created>1504708140620</created>
@@ -896,11 +888,18 @@
       <option name="project" value="LOCAL" />
       <updated>1509992562881</updated>
     </task>
-    <option name="localTasksCounter" value="153" />
+    <task id="LOCAL-00153" summary="egzamin">
+      <created>1509992665892</created>
+      <option name="number" value="00153" />
+      <option name="presentableId" value="LOCAL-00153" />
+      <option name="project" value="LOCAL" />
+      <updated>1509992665892</updated>
+    </task>
+    <option name="localTasksCounter" value="154" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="174670000" />
+    <option name="totallyTimeSpent" value="174719000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="24" width="1920" height="1056" extended-state="6" />
@@ -1191,17 +1190,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-10-23-jquery.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="90">
-            <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-09-04-javascript.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1216,8 +1204,19 @@
     <entry file="file://$PROJECT_DIR$/_posts/2017-11-02-sql.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="162">
-            <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-10-23-jquery.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="18">
+            <caret line="1" column="24" lean-forward="false" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
             <folding />
           </first_editor>
           <second_editor />
