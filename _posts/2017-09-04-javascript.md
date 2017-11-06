@@ -4,7 +4,7 @@ layout: post
 ---
 
 
-# Materiały
+### Materiały
  - [dokumentacja MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
  - [dokumentacja speakingjs](http://speakingjs.com/es5/index.html)
  - [kurs JS](http://shebang.pl/kursy/wszystko-jasne/)
