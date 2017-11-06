@@ -6,8 +6,8 @@
     <img id="img">
     <script type="text/javascript">
         imgList = ["https://thumb7.shutterstock.com/display_pic_with_logo/3409577/618454109/stock-vector-funny-and-cute-green-chameleon-smiling-on-a-branch-vector-618454109.jpg", "http://vector.me/files/images/1/7/170706/chameleon_vector.jpg", "https://images.vexels.com/media/users/17482/105724/raw/0d39e32c39208e7ffbd1d2507ddc7f0a-chameleon-vector.png", ""];
-        img = ((Math.random()*imgList.length)%imgList.length)+1;
-        document.getElementById("img").src = img;
+        img = ((Math.random()*imgList.length)%imgList.length);
+        document.getElementById("img").src = imgList[Math.floor(img)];
     </script>
   </div>
 </div>
