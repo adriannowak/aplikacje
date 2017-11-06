@@ -86,8 +86,8 @@
       <file leaf-file-name="side-bar.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/side-bar.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            <state relative-caret-position="144">
+              <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -534,14 +534,7 @@
       <workItem from="1508332283231" duration="166000" />
       <workItem from="1509612263466" duration="1583000" />
       <workItem from="1509972576700" duration="1251000" />
-      <workItem from="1509991179638" duration="1696000" />
-    </task>
-    <task id="LOCAL-00114" summary="t1,t2">
-      <created>1504859120241</created>
-      <option name="number" value="00114" />
-      <option name="presentableId" value="LOCAL-00114" />
-      <option name="project" value="LOCAL" />
-      <updated>1504859120242</updated>
+      <workItem from="1509991179638" duration="1724000" />
     </task>
     <task id="LOCAL-00115" summary="t1,t2">
       <created>1505070738556</created>
@@ -879,11 +872,18 @@
       <option name="project" value="LOCAL" />
       <updated>1509993462575</updated>
     </task>
-    <option name="localTasksCounter" value="163" />
+    <task id="LOCAL-00163" summary="egzamin">
+      <created>1509993516208</created>
+      <option name="number" value="00163" />
+      <option name="presentableId" value="LOCAL-00163" />
+      <option name="project" value="LOCAL" />
+      <updated>1509993516208</updated>
+    </task>
+    <option name="localTasksCounter" value="164" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="175519000" />
+    <option name="totallyTimeSpent" value="175547000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="24" width="1920" height="1056" extended-state="6" />
@@ -1209,8 +1209,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/side-bar.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        <state relative-caret-position="144">
+          <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
           <folding />
         </state>
       </provider>
