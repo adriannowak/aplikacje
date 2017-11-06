@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4fee7e0d-f5a7-4597-aaa2-5ba3ee96d30b" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2017-10-05-egzamin.md" afterPath="$PROJECT_DIR$/_old/2017-10-05-egzamin.md" />
+    <list default="true" id="4fee7e0d-f5a7-4597-aaa2-5ba3ee96d30b" name="Default" comment="egzamin">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_old/2017-10-17-js-teoria.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2017-10-17-js-teoria.md" afterPath="$PROJECT_DIR$/_includes/2017-10-17-js-teoria.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2017-10-23-js-praktyka.md" afterPath="$PROJECT_DIR$/_old/2017-10-23-js-praktyka.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2017-10-31-jq.md" afterPath="$PROJECT_DIR$/_old/2017-10-31-jq.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-11-02-sql.md" afterPath="$PROJECT_DIR$/_posts/2017-11-02-sql.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -30,12 +34,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2017-02-01-powtorzenie-wiadomosci-sql.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_old/2017-02-01-powtorzenie-wiadomosci-sql.md">
+      <file leaf-file-name="2017-10-17-js-teoria.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/2017-10-17-js-teoria.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <first_editor relative-caret-position="2862">
+                <caret line="159" column="0" lean-forward="false" selection-start-line="159" selection-start-column="0" selection-end-line="159" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -43,12 +47,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-09-01-info.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-09-01-info.md">
+      <file leaf-file-name="2017-11-02-sql.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-11-02-sql.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="180">
-                <caret line="10" column="70" lean-forward="false" selection-start-line="10" selection-start-column="70" selection-end-line="10" selection-end-column="70" />
+              <first_editor relative-caret-position="215">
+                <caret line="99" column="0" lean-forward="false" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -56,12 +60,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-09-04-javascript.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-09-04-javascript.md">
+      <file leaf-file-name="2017-10-31-jq.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_old/2017-10-31-jq.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="8370">
-                <caret line="465" column="29" lean-forward="false" selection-start-line="465" selection-start-column="29" selection-end-line="465" selection-end-column="29" />
+              <first_editor relative-caret-position="18">
+                <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -69,7 +73,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-10-05-egzamin.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2017-10-05-egzamin.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_old/2017-10-05-egzamin.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -78,6 +82,16 @@
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pass.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/pass.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" column="9" lean-forward="false" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -157,6 +171,14 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>materialy-js</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/_old</dir>
+    </dirStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -205,8 +227,12 @@
         <option value="$PROJECT_DIR$/_posts/2017-04-20-formularze-cwiczenia.md" />
         <option value="$PROJECT_DIR$/_posts/2017-04-20-formularze-cwiczenia2.md" />
         <option value="$PROJECT_DIR$/_posts/2017-09-01-info.md" />
-        <option value="$PROJECT_DIR$/_posts/2017-09-04-javascript.md" />
         <option value="$PROJECT_DIR$/_posts/2017-10-05-egzamin.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-09-04-javascript.md" />
+        <option value="$PROJECT_DIR$/_includes/pass.html" />
+        <option value="$PROJECT_DIR$/_old/2017-10-05-egzamin.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-10-17-js-teoria.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-11-02-sql.md" />
       </list>
     </option>
   </component>
@@ -225,9 +251,9 @@
     <treeState />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="65" />
+    <option name="x" value="1920" />
     <option name="y" value="24" />
-    <option name="width" value="1855" />
+    <option name="width" value="1920" />
     <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
@@ -245,8 +271,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -256,6 +280,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="aplikacje" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aplikacje" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aplikacje" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="materialy-js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -297,12 +335,14 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="_old" />
+              <option name="myItemId" value="_includes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -317,15 +357,17 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/_old" />
-      <recent name="$PROJECT_DIR$/materialy-access/sprawdzian" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_posts" />
-      <recent name="$PROJECT_DIR$/egzamin" />
       <recent name="$PROJECT_DIR$/_old" />
+      <recent name="$PROJECT_DIR$/egzamin" />
       <recent name="$PROJECT_DIR$/images/zadania-php" />
+      <recent name="$PROJECT_DIR$/materialy-access/sprawdzian" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_old" />
+      <recent name="$PROJECT_DIR$/_includes" />
+      <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$/materialy-access/sprawdzian" />
     </key>
   </component>
@@ -505,196 +547,13 @@
       <workItem from="1506240005127" duration="3169000" />
       <workItem from="1507179746070" duration="1210000" />
       <workItem from="1507450284302" duration="10000" />
-      <workItem from="1507613548247" duration="18000" />
-    </task>
-    <task id="LOCAL-00076" summary="t1,t2">
-      <created>1491813637158</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
-      <option name="project" value="LOCAL" />
-      <updated>1491813637159</updated>
-    </task>
-    <task id="LOCAL-00077" summary="t1,t2">
-      <created>1491814493725</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1491814493725</updated>
-    </task>
-    <task id="LOCAL-00078" summary="t1,t2">
-      <created>1491935870832</created>
-      <option name="number" value="00078" />
-      <option name="presentableId" value="LOCAL-00078" />
-      <option name="project" value="LOCAL" />
-      <updated>1491935870833</updated>
-    </task>
-    <task id="LOCAL-00079" summary="t1,t2">
-      <created>1491983972843</created>
-      <option name="number" value="00079" />
-      <option name="presentableId" value="LOCAL-00079" />
-      <option name="project" value="LOCAL" />
-      <updated>1491983972844</updated>
-    </task>
-    <task id="LOCAL-00080" summary="t1,t2">
-      <created>1491983984660</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1491983984660</updated>
-    </task>
-    <task id="LOCAL-00081" summary="t1,t2">
-      <created>1491984014378</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1491984014378</updated>
-    </task>
-    <task id="LOCAL-00082" summary="t1,t2">
-      <created>1492712511337</created>
-      <option name="number" value="00082" />
-      <option name="presentableId" value="LOCAL-00082" />
-      <option name="project" value="LOCAL" />
-      <updated>1492712511339</updated>
-    </task>
-    <task id="LOCAL-00083" summary="t1,t2">
-      <created>1492712791317</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1492712791317</updated>
-    </task>
-    <task id="LOCAL-00084" summary="t1,t2">
-      <created>1492712930946</created>
-      <option name="number" value="00084" />
-      <option name="presentableId" value="LOCAL-00084" />
-      <option name="project" value="LOCAL" />
-      <updated>1492712930946</updated>
-    </task>
-    <task id="LOCAL-00085" summary="t1,t2">
-      <created>1492714039051</created>
-      <option name="number" value="00085" />
-      <option name="presentableId" value="LOCAL-00085" />
-      <option name="project" value="LOCAL" />
-      <updated>1492714039052</updated>
-    </task>
-    <task id="LOCAL-00086" summary="t1,t2">
-      <created>1492975147658</created>
-      <option name="number" value="00086" />
-      <option name="presentableId" value="LOCAL-00086" />
-      <option name="project" value="LOCAL" />
-      <updated>1492975147659</updated>
-    </task>
-    <task id="LOCAL-00087" summary="t1,t2">
-      <created>1493187583012</created>
-      <option name="number" value="00087" />
-      <option name="presentableId" value="LOCAL-00087" />
-      <option name="project" value="LOCAL" />
-      <updated>1493187583014</updated>
-    </task>
-    <task id="LOCAL-00088" summary="t1,t2">
-      <created>1504539977999</created>
-      <option name="number" value="00088" />
-      <option name="presentableId" value="LOCAL-00088" />
-      <option name="project" value="LOCAL" />
-      <updated>1504539978000</updated>
-    </task>
-    <task id="LOCAL-00089" summary="t1,t2">
-      <created>1504540180107</created>
-      <option name="number" value="00089" />
-      <option name="presentableId" value="LOCAL-00089" />
-      <option name="project" value="LOCAL" />
-      <updated>1504540180107</updated>
-    </task>
-    <task id="LOCAL-00090" summary="t1,t2">
-      <created>1504545979517</created>
-      <option name="number" value="00090" />
-      <option name="presentableId" value="LOCAL-00090" />
-      <option name="project" value="LOCAL" />
-      <updated>1504545979517</updated>
-    </task>
-    <task id="LOCAL-00091" summary="t1,t2">
-      <created>1504546055251</created>
-      <option name="number" value="00091" />
-      <option name="presentableId" value="LOCAL-00091" />
-      <option name="project" value="LOCAL" />
-      <updated>1504546055252</updated>
-    </task>
-    <task id="LOCAL-00092" summary="t1,t2">
-      <created>1504547955210</created>
-      <option name="number" value="00092" />
-      <option name="presentableId" value="LOCAL-00092" />
-      <option name="project" value="LOCAL" />
-      <updated>1504547955211</updated>
-    </task>
-    <task id="LOCAL-00093" summary="t1,t2">
-      <created>1504548039122</created>
-      <option name="number" value="00093" />
-      <option name="presentableId" value="LOCAL-00093" />
-      <option name="project" value="LOCAL" />
-      <updated>1504548039122</updated>
-    </task>
-    <task id="LOCAL-00094" summary="t1,t2">
-      <created>1504551651272</created>
-      <option name="number" value="00094" />
-      <option name="presentableId" value="LOCAL-00094" />
-      <option name="project" value="LOCAL" />
-      <updated>1504551651272</updated>
-    </task>
-    <task id="LOCAL-00095" summary="t1,t2">
-      <created>1504552202669</created>
-      <option name="number" value="00095" />
-      <option name="presentableId" value="LOCAL-00095" />
-      <option name="project" value="LOCAL" />
-      <updated>1504552202669</updated>
-    </task>
-    <task id="LOCAL-00096" summary="t1,t2">
-      <created>1504552250069</created>
-      <option name="number" value="00096" />
-      <option name="presentableId" value="LOCAL-00096" />
-      <option name="project" value="LOCAL" />
-      <updated>1504552250069</updated>
-    </task>
-    <task id="LOCAL-00097" summary="t1,t2">
-      <created>1504634698562</created>
-      <option name="number" value="00097" />
-      <option name="presentableId" value="LOCAL-00097" />
-      <option name="project" value="LOCAL" />
-      <updated>1504634698566</updated>
-    </task>
-    <task id="LOCAL-00098" summary="t1,t2">
-      <created>1504634750619</created>
-      <option name="number" value="00098" />
-      <option name="presentableId" value="LOCAL-00098" />
-      <option name="project" value="LOCAL" />
-      <updated>1504634750619</updated>
-    </task>
-    <task id="LOCAL-00099" summary="t1,t2">
-      <created>1504634810014</created>
-      <option name="number" value="00099" />
-      <option name="presentableId" value="LOCAL-00099" />
-      <option name="project" value="LOCAL" />
-      <updated>1504634810014</updated>
-    </task>
-    <task id="LOCAL-00100" summary="t1,t2">
-      <created>1504634932703</created>
-      <option name="number" value="00100" />
-      <option name="presentableId" value="LOCAL-00100" />
-      <option name="project" value="LOCAL" />
-      <updated>1504634932703</updated>
-    </task>
-    <task id="LOCAL-00101" summary="t1,t2">
-      <created>1504634987264</created>
-      <option name="number" value="00101" />
-      <option name="presentableId" value="LOCAL-00101" />
-      <option name="project" value="LOCAL" />
-      <updated>1504634987264</updated>
-    </task>
-    <task id="LOCAL-00102" summary="t1,t2">
-      <created>1504635061641</created>
-      <option name="number" value="00102" />
-      <option name="presentableId" value="LOCAL-00102" />
-      <option name="project" value="LOCAL" />
-      <updated>1504635061641</updated>
+      <workItem from="1507613548247" duration="631000" />
+      <workItem from="1507785228713" duration="1786000" />
+      <workItem from="1508211397096" duration="2927000" />
+      <workItem from="1508332283231" duration="166000" />
+      <workItem from="1509612263466" duration="1583000" />
+      <workItem from="1509972576700" duration="1251000" />
+      <workItem from="1509991179638" duration="739000" />
     </task>
     <task id="LOCAL-00103" summary="t1,t2">
       <created>1504708087271</created>
@@ -850,23 +709,214 @@
       <option name="project" value="LOCAL" />
       <updated>1507180274387</updated>
     </task>
-    <option name="localTasksCounter" value="125" />
+    <task id="LOCAL-00125" summary="egzamin">
+      <created>1507613570983</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1507613570984</updated>
+    </task>
+    <task id="LOCAL-00126" summary="egzamin">
+      <created>1507787798098</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1507787798098</updated>
+    </task>
+    <task id="LOCAL-00127" summary="egzamin">
+      <created>1507788160610</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1507788160610</updated>
+    </task>
+    <task id="LOCAL-00128" summary="egzamin">
+      <created>1507788369533</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1507788369534</updated>
+    </task>
+    <task id="LOCAL-00129" summary="egzamin">
+      <created>1508212885402</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1508212885404</updated>
+    </task>
+    <task id="LOCAL-00130" summary="egzamin">
+      <created>1508212896604</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1508212896604</updated>
+    </task>
+    <task id="LOCAL-00131" summary="egzamin">
+      <created>1508213056251</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1508213056251</updated>
+    </task>
+    <task id="LOCAL-00132" summary="egzamin">
+      <created>1508213157120</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1508213157120</updated>
+    </task>
+    <task id="LOCAL-00133" summary="egzamin">
+      <created>1508213323703</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1508213323704</updated>
+    </task>
+    <task id="LOCAL-00134" summary="egzamin">
+      <created>1508213370507</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1508213370508</updated>
+    </task>
+    <task id="LOCAL-00135" summary="egzamin">
+      <created>1508213472230</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1508213472230</updated>
+    </task>
+    <task id="LOCAL-00136" summary="egzamin">
+      <created>1508213674970</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1508213674970</updated>
+    </task>
+    <task id="LOCAL-00137" summary="egzamin">
+      <created>1508213779931</created>
+      <option name="number" value="00137" />
+      <option name="presentableId" value="LOCAL-00137" />
+      <option name="project" value="LOCAL" />
+      <updated>1508213779931</updated>
+    </task>
+    <task id="LOCAL-00138" summary="egzamin">
+      <created>1508213884940</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1508213884940</updated>
+    </task>
+    <task id="LOCAL-00139" summary="egzamin">
+      <created>1508214092667</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1508214092668</updated>
+    </task>
+    <task id="LOCAL-00140" summary="egzamin">
+      <created>1508214277385</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1508214277385</updated>
+    </task>
+    <task id="LOCAL-00141" summary="egzamin">
+      <created>1508214313026</created>
+      <option name="number" value="00141" />
+      <option name="presentableId" value="LOCAL-00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1508214313026</updated>
+    </task>
+    <task id="LOCAL-00142" summary="egzamin">
+      <created>1508332320221</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1508332320222</updated>
+    </task>
+    <task id="LOCAL-00143" summary="egzamin">
+      <created>1509612339085</created>
+      <option name="number" value="00143" />
+      <option name="presentableId" value="LOCAL-00143" />
+      <option name="project" value="LOCAL" />
+      <updated>1509612339085</updated>
+    </task>
+    <task id="LOCAL-00144" summary="egzamin">
+      <created>1509614752740</created>
+      <option name="number" value="00144" />
+      <option name="presentableId" value="LOCAL-00144" />
+      <option name="project" value="LOCAL" />
+      <updated>1509614752740</updated>
+    </task>
+    <task id="LOCAL-00145" summary="egzamin">
+      <created>1509615086149</created>
+      <option name="number" value="00145" />
+      <option name="presentableId" value="LOCAL-00145" />
+      <option name="project" value="LOCAL" />
+      <updated>1509615086149</updated>
+    </task>
+    <task id="LOCAL-00146" summary="egzamin">
+      <created>1509615144546</created>
+      <option name="number" value="00146" />
+      <option name="presentableId" value="LOCAL-00146" />
+      <option name="project" value="LOCAL" />
+      <updated>1509615144546</updated>
+    </task>
+    <task id="LOCAL-00147" summary="egzamin">
+      <created>1509615166325</created>
+      <option name="number" value="00147" />
+      <option name="presentableId" value="LOCAL-00147" />
+      <option name="project" value="LOCAL" />
+      <updated>1509615166326</updated>
+    </task>
+    <task id="LOCAL-00148" summary="egzamin">
+      <created>1509615473191</created>
+      <option name="number" value="00148" />
+      <option name="presentableId" value="LOCAL-00148" />
+      <option name="project" value="LOCAL" />
+      <updated>1509615473191</updated>
+    </task>
+    <task id="LOCAL-00149" summary="egzamin">
+      <created>1509615515264</created>
+      <option name="number" value="00149" />
+      <option name="presentableId" value="LOCAL-00149" />
+      <option name="project" value="LOCAL" />
+      <updated>1509615515264</updated>
+    </task>
+    <task id="LOCAL-00150" summary="egzamin">
+      <created>1509972602724</created>
+      <option name="number" value="00150" />
+      <option name="presentableId" value="LOCAL-00150" />
+      <option name="project" value="LOCAL" />
+      <updated>1509972602725</updated>
+    </task>
+    <task id="LOCAL-00151" summary="egzamin">
+      <created>1509979314448</created>
+      <option name="number" value="00151" />
+      <option name="presentableId" value="LOCAL-00151" />
+      <option name="project" value="LOCAL" />
+      <updated>1509979314448</updated>
+    </task>
+    <option name="localTasksCounter" value="152" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="165497000" />
+    <option name="totallyTimeSpent" value="174562000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
+    <frame x="1920" y="24" width="1920" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29039302" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23510806" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33010754" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34086022" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -875,13 +925,11 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946378" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946378" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -902,16 +950,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CNAME">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aplikacje_internetowe/t1.md" />
-    <entry file="file://$PROJECT_DIR$/grupy.md" />
-    <entry file="file://$PROJECT_DIR$/index.md" />
     <entry file="file://$PROJECT_DIR$/podstawy_programowania/t1.md" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
@@ -1044,7 +1082,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1055,7 +1092,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="180">
             <caret line="10" column="70" lean-forward="false" selection-start-line="10" selection-start-column="70" selection-end-line="10" selection-end-column="70" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1064,11 +1100,40 @@
     <entry file="file://$PROJECT_DIR$/_posts/2017-09-04-javascript.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="8370">
-            <caret line="465" column="29" lean-forward="false" selection-start-line="465" selection-start-column="29" selection-end-line="465" selection-end-column="29" />
+          <first_editor relative-caret-position="8892">
+            <caret line="494" column="10" lean-forward="false" selection-start-line="494" selection-start-column="10" selection-end-line="494" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/2017-10-17-js-teoria.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="2862">
+            <caret line="159" column="0" lean-forward="false" selection-start-line="159" selection-start-column="0" selection-end-line="159" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_old/2017-10-05-egzamin.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="144">
+            <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/pass.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="9" lean-forward="false" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1128,11 +1193,22 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_old/2017-10-05-egzamin.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2017-11-02-sql.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="144">
-            <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <first_editor relative-caret-position="215">
+            <caret line="99" column="0" lean-forward="false" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_old/2017-10-31-jq.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="18">
+            <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
