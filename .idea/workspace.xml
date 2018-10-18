@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4fee7e0d-f5a7-4597-aaa2-5ba3ee96d30b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/images/html/20180920_091927.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kalkulator.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logic.php" afterDir="false" />
+    <list default="true" id="4fee7e0d-f5a7-4597-aaa2-5ba3ee96d30b" name="Default" comment="egzamin">
+      <change afterPath="$PROJECT_DIR$/images/html/sygnatura.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-12-15-kartkowka.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2018-09-20-html.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-09-20-html.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/formularz.php" beforeDir="false" afterPath="$PROJECT_DIR$/formularz.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/html/test.html" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -36,28 +33,36 @@
     <session id="1139907847">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.0" value="4" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="html" value="4" />
           <entry key="md" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="HTML" value="4" />
           <entry key="PLAIN_TEXT" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="15" />
+          <entry key="html" value="135" />
+          <entry key="md" value="315" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="15" />
+          <entry key="HTML" value="135" />
+          <entry key="PLAIN_TEXT" value="315" />
         </counts>
       </usages-collector>
     </session>
@@ -76,22 +81,27 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2018-09-20-html.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+            <state relative-caret-position="544">
+              <caret line="78" column="3" selection-start-line="78" selection-start-column="3" selection-end-line="78" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-10-23-jquery.md">
+        <entry file="file://$PROJECT_DIR$/_includes/disqus.html">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-09-04-javascript.md">
+        <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/head.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="210" column="7" selection-start-line="210" selection-start-column="7" selection-end-line="210" selection-end-column="7" />
+            <state relative-caret-position="72">
+              <caret line="18" column="69" lean-forward="true" selection-start-line="18" selection-start-column="69" selection-end-line="18" selection-end-column="69" />
             </state>
           </provider>
         </entry>
@@ -119,7 +129,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_posts/2017-02-18-jezyk-php-wprowadzenie.md" />
         <option value="$PROJECT_DIR$/_posts/2017-02-18-powtorzenie-wiadomosci-sql.md" />
         <option value="$PROJECT_DIR$/_posts/2017-02-01-powtorzenie-wiadomosci-sql.md" />
         <option value="$PROJECT_DIR$/_posts/2017-02-26-podzial-na-grupy.md" />
@@ -146,7 +155,6 @@
         <option value="$PROJECT_DIR$/_posts/2017-03-31-formularze-kontrolki2.md" />
         <option value="$PROJECT_DIR$/_posts/2017-03-24-sprawdzian-access.md" />
         <option value="$PROJECT_DIR$/_layouts/default.html" />
-        <option value="$PROJECT_DIR$/_includes/head.html" />
         <option value="$PROJECT_DIR$/_posts/2017-04-12-operacje-na-plikach.md" />
         <option value="$PROJECT_DIR$/_posts/2016-09-01-info.md" />
         <option value="$PROJECT_DIR$/_posts/2017-04-20-formularze-cwiczenia.md" />
@@ -169,6 +177,8 @@
         <option value="$PROJECT_DIR$/_posts/2017-12-15-kartkowka.md" />
         <option value="$PROJECT_DIR$/_posts/2017-12-01-php.md" />
         <option value="$PROJECT_DIR$/formularz.php" />
+        <option value="$PROJECT_DIR$/images/html/test.html" />
+        <option value="$PROJECT_DIR$/_includes/head.html" />
         <option value="$PROJECT_DIR$/_posts/2018-09-20-html.md" />
       </list>
     </option>
@@ -189,10 +199,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 7.1" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="64" />
-    <option name="y" value="-11" />
-    <option name="width" value="1857" />
-    <option name="height" value="1092" />
+    <option name="x" value="307" />
+    <option name="y" value="-4" />
+    <option name="width" value="1613" />
+    <option name="height" value="1046" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -211,7 +221,17 @@
             <path>
               <item name="aplikacje" type="b2602c69:ProjectViewProjectNode" />
               <item name="aplikacje" type="462c0819:PsiDirectoryNode" />
+              <item name="_includes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aplikacje" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aplikacje" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aplikacje" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aplikacje" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="aplikacje" type="b2602c69:ProjectViewProjectNode" />
@@ -243,12 +263,6 @@
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/_old" />
-      <recent name="$PROJECT_DIR$/_includes" />
-      <recent name="$PROJECT_DIR$/_posts" />
-      <recent name="$PROJECT_DIR$/materialy-access/sprawdzian" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/images/html" />
       <recent name="$PROJECT_DIR$/_posts" />
@@ -256,117 +270,13 @@
       <recent name="$PROJECT_DIR$/egzamin" />
       <recent name="$PROJECT_DIR$/images/zadania-php" />
     </key>
-  </component>
-  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
-    <UpdatedFiles>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Updated from server" />
-        <option name="myStatusName" value="Changed on server" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="CHANGED_ON_SERVER" />
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Updated" />
-          <option name="myStatusName" value="Changed" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="UPDATED" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Created" />
-          <option name="myStatusName" value="Created" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="CREATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/_posts/2018-01-04-c.md</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/_posts/2018-09-20-html.md</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Deleted" />
-          <option name="myStatusName" value="Deleted" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="true" />
-          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Restored" />
-          <option name="myStatusName" value="Will be restored" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="RESTORED" />
-        </FILE-GROUP>
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Modified" />
-        <option name="myStatusName" value="Modified" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MODIFIED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Skipped" />
-        <option name="myStatusName" value="Skipped" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SKIPPED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with conflicts" />
-        <option name="myStatusName" value="Will be merged with conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_CONFLICTS" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with tree conflicts" />
-        <option name="myStatusName" value="Merged with tree conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with property conflicts" />
-        <option name="myStatusName" value="Will be merged with property conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged" />
-        <option name="myStatusName" value="Will be merged" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Not in repository" />
-        <option name="myStatusName" value="Not in repository" />
-        <option name="mySupportsDeletion" value="true" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="UNKNOWN" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally added" />
-        <option name="myStatusName" value="Locally added" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_ADDED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally removed" />
-        <option name="myStatusName" value="Locally removed" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_REMOVED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Switched" />
-        <option name="myStatusName" value="Switched" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SWITCHED" />
-      </FILE-GROUP>
-    </UpdatedFiles>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/html" />
+      <recent name="$PROJECT_DIR$/_old" />
+      <recent name="$PROJECT_DIR$/_includes" />
+      <recent name="$PROJECT_DIR$/_posts" />
+      <recent name="$PROJECT_DIR$/materialy-access/sprawdzian" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -380,7 +290,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Unknown.formularz.php1044055448">
+  <component name="RunManager" selected="Unknown.formularz.php619422137">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
@@ -599,55 +509,6 @@
       <workItem from="1526553626628" duration="4000" />
       <workItem from="1526995004936" duration="583000" />
       <workItem from="1530254310406" duration="3000" />
-    </task>
-    <task id="LOCAL-00140" summary="egzamin">
-      <created>1508214277385</created>
-      <option name="number" value="00140" />
-      <option name="presentableId" value="LOCAL-00140" />
-      <option name="project" value="LOCAL" />
-      <updated>1508214277385</updated>
-    </task>
-    <task id="LOCAL-00141" summary="egzamin">
-      <created>1508214313026</created>
-      <option name="number" value="00141" />
-      <option name="presentableId" value="LOCAL-00141" />
-      <option name="project" value="LOCAL" />
-      <updated>1508214313026</updated>
-    </task>
-    <task id="LOCAL-00142" summary="egzamin">
-      <created>1508332320221</created>
-      <option name="number" value="00142" />
-      <option name="presentableId" value="LOCAL-00142" />
-      <option name="project" value="LOCAL" />
-      <updated>1508332320222</updated>
-    </task>
-    <task id="LOCAL-00143" summary="egzamin">
-      <created>1509612339085</created>
-      <option name="number" value="00143" />
-      <option name="presentableId" value="LOCAL-00143" />
-      <option name="project" value="LOCAL" />
-      <updated>1509612339085</updated>
-    </task>
-    <task id="LOCAL-00144" summary="egzamin">
-      <created>1509614752740</created>
-      <option name="number" value="00144" />
-      <option name="presentableId" value="LOCAL-00144" />
-      <option name="project" value="LOCAL" />
-      <updated>1509614752740</updated>
-    </task>
-    <task id="LOCAL-00145" summary="egzamin">
-      <created>1509615086149</created>
-      <option name="number" value="00145" />
-      <option name="presentableId" value="LOCAL-00145" />
-      <option name="project" value="LOCAL" />
-      <updated>1509615086149</updated>
-    </task>
-    <task id="LOCAL-00146" summary="egzamin">
-      <created>1509615144546</created>
-      <option name="number" value="00146" />
-      <option name="presentableId" value="LOCAL-00146" />
-      <option name="project" value="LOCAL" />
-      <updated>1509615144546</updated>
     </task>
     <task id="LOCAL-00147" summary="egzamin">
       <created>1509615166325</created>
@@ -943,17 +804,66 @@
       <option name="project" value="LOCAL" />
       <updated>1513853719642</updated>
     </task>
-    <option name="localTasksCounter" value="189" />
+    <task id="LOCAL-00189" summary="egzamin">
+      <created>1538062558459</created>
+      <option name="number" value="00189" />
+      <option name="presentableId" value="LOCAL-00189" />
+      <option name="project" value="LOCAL" />
+      <updated>1538062558460</updated>
+    </task>
+    <task id="LOCAL-00190" summary="egzamin">
+      <created>1539267866295</created>
+      <option name="number" value="00190" />
+      <option name="presentableId" value="LOCAL-00190" />
+      <option name="project" value="LOCAL" />
+      <updated>1539267866296</updated>
+    </task>
+    <task id="LOCAL-00191" summary="egzamin">
+      <created>1539267965588</created>
+      <option name="number" value="00191" />
+      <option name="presentableId" value="LOCAL-00191" />
+      <option name="project" value="LOCAL" />
+      <updated>1539267965588</updated>
+    </task>
+    <task id="LOCAL-00192" summary="egzamin">
+      <created>1539268128498</created>
+      <option name="number" value="00192" />
+      <option name="presentableId" value="LOCAL-00192" />
+      <option name="project" value="LOCAL" />
+      <updated>1539268128498</updated>
+    </task>
+    <task id="LOCAL-00193" summary="egzamin">
+      <created>1539268204756</created>
+      <option name="number" value="00193" />
+      <option name="presentableId" value="LOCAL-00193" />
+      <option name="project" value="LOCAL" />
+      <updated>1539268204756</updated>
+    </task>
+    <task id="LOCAL-00194" summary="egzamin">
+      <created>1539269176195</created>
+      <option name="number" value="00194" />
+      <option name="presentableId" value="LOCAL-00194" />
+      <option name="project" value="LOCAL" />
+      <updated>1539269176195</updated>
+    </task>
+    <task id="LOCAL-00195" summary="egzamin">
+      <created>1539269240006</created>
+      <option name="number" value="00195" />
+      <option name="presentableId" value="LOCAL-00195" />
+      <option name="project" value="LOCAL" />
+      <updated>1539269240006</updated>
+    </task>
+    <option name="localTasksCounter" value="196" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="239924000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="64" y="-11" width="961" height="780" extended-state="6" />
+    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31763417" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.39414042" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -966,7 +876,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.33997902" />
+      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.33995816" />
       <window_info anchor="bottom" id="Messages" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32903227" />
       <window_info anchor="bottom" id="Docker" order="11" weight="0.320296" />
@@ -1020,6 +930,32 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -1030,6 +966,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="egzamin" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_posts/2017-09-04-javascript.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2017-10-23-jquery.md" />
+    <entry file="file://$PROJECT_DIR$/images/html/test.html" />
     <entry file="file://$PROJECT_DIR$/formularz.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -1037,20 +976,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-09-04-javascript.md">
+    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/head.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="210" column="7" selection-start-line="210" selection-start-column="7" selection-end-line="210" selection-end-column="7" />
+        <state relative-caret-position="72">
+          <caret line="18" column="69" lean-forward="true" selection-start-line="18" selection-start-column="69" selection-end-line="18" selection-end-column="69" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-10-23-jquery.md">
+    <entry file="file://$PROJECT_DIR$/_includes/disqus.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-09-20-html.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+        <state relative-caret-position="544">
+          <caret line="78" column="3" selection-start-line="78" selection-start-column="3" selection-end-line="78" selection-end-column="3" />
         </state>
       </provider>
     </entry>
