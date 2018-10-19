@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4fee7e0d-f5a7-4597-aaa2-5ba3ee96d30b" name="Default" comment="egzamin">
-      <change afterPath="$PROJECT_DIR$/images/html/sygnatura.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-09-20-html.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-09-20-html.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/html/test.html" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -33,12 +30,13 @@
     <session id="1139907847">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -56,13 +54,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="135" />
-          <entry key="md" value="315" />
+          <entry key="md" value="473" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="135" />
-          <entry key="PLAIN_TEXT" value="315" />
+          <entry key="PLAIN_TEXT" value="473" />
         </counts>
       </usages-collector>
     </session>
@@ -81,8 +79,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2018-09-20-html.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="78" column="3" selection-start-line="78" selection-start-column="3" selection-end-line="78" selection-end-column="3" />
+            <state relative-caret-position="394">
+              <caret line="72" column="38" selection-start-line="72" selection-start-column="38" selection-end-line="72" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -100,7 +98,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/head.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
+            <state relative-caret-position="270">
               <caret line="18" column="69" lean-forward="true" selection-start-line="18" selection-start-column="69" selection-end-line="18" selection-end-column="69" />
             </state>
           </provider>
@@ -210,7 +208,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -248,6 +245,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -263,19 +261,19 @@
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/images/html" />
-      <recent name="$PROJECT_DIR$/_posts" />
-      <recent name="$PROJECT_DIR$/_old" />
-      <recent name="$PROJECT_DIR$/egzamin" />
-      <recent name="$PROJECT_DIR$/images/zadania-php" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/images/html" />
       <recent name="$PROJECT_DIR$/_old" />
       <recent name="$PROJECT_DIR$/_includes" />
       <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$/materialy-access/sprawdzian" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/html" />
+      <recent name="$PROJECT_DIR$/_posts" />
+      <recent name="$PROJECT_DIR$/_old" />
+      <recent name="$PROJECT_DIR$/egzamin" />
+      <recent name="$PROJECT_DIR$/images/zadania-php" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -290,7 +288,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Unknown.formularz.php619422137">
+  <component name="RunManager" selected="Unknown.formularz.php1143498215">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
@@ -509,27 +507,6 @@
       <workItem from="1526553626628" duration="4000" />
       <workItem from="1526995004936" duration="583000" />
       <workItem from="1530254310406" duration="3000" />
-    </task>
-    <task id="LOCAL-00147" summary="egzamin">
-      <created>1509615166325</created>
-      <option name="number" value="00147" />
-      <option name="presentableId" value="LOCAL-00147" />
-      <option name="project" value="LOCAL" />
-      <updated>1509615166326</updated>
-    </task>
-    <task id="LOCAL-00148" summary="egzamin">
-      <created>1509615473191</created>
-      <option name="number" value="00148" />
-      <option name="presentableId" value="LOCAL-00148" />
-      <option name="project" value="LOCAL" />
-      <updated>1509615473191</updated>
-    </task>
-    <task id="LOCAL-00149" summary="egzamin">
-      <created>1509615515264</created>
-      <option name="number" value="00149" />
-      <option name="presentableId" value="LOCAL-00149" />
-      <option name="project" value="LOCAL" />
-      <updated>1509615515264</updated>
     </task>
     <task id="LOCAL-00150" summary="egzamin">
       <created>1509972602724</created>
@@ -853,17 +830,38 @@
       <option name="project" value="LOCAL" />
       <updated>1539269240006</updated>
     </task>
-    <option name="localTasksCounter" value="196" />
+    <task id="LOCAL-00196" summary="egzamin">
+      <created>1539874276486</created>
+      <option name="number" value="00196" />
+      <option name="presentableId" value="LOCAL-00196" />
+      <option name="project" value="LOCAL" />
+      <updated>1539874276488</updated>
+    </task>
+    <task id="LOCAL-00197" summary="egzamin">
+      <created>1539874339504</created>
+      <option name="number" value="00197" />
+      <option name="presentableId" value="LOCAL-00197" />
+      <option name="project" value="LOCAL" />
+      <updated>1539874339504</updated>
+    </task>
+    <task id="LOCAL-00198" summary="egzamin">
+      <created>1539874441101</created>
+      <option name="number" value="00198" />
+      <option name="presentableId" value="LOCAL-00198" />
+      <option name="project" value="LOCAL" />
+      <updated>1539874441101</updated>
+    </task>
+    <option name="localTasksCounter" value="199" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="239924000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <frame x="64" y="11" width="1617" height="1062" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.39414042" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.39961758" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -876,7 +874,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.33995816" />
+      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.3401728" />
       <window_info anchor="bottom" id="Messages" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32903227" />
       <window_info anchor="bottom" id="Docker" order="11" weight="0.320296" />
@@ -976,23 +974,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/disqus.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/footer.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/head.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
+        <state relative-caret-position="270">
           <caret line="18" column="69" lean-forward="true" selection-start-line="18" selection-start-column="69" selection-end-line="18" selection-end-column="69" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/disqus.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-09-20-html.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="78" column="3" selection-start-line="78" selection-start-column="3" selection-end-line="78" selection-end-column="3" />
+        <state relative-caret-position="394">
+          <caret line="72" column="38" selection-start-line="72" selection-start-column="38" selection-end-line="72" selection-end-column="38" />
         </state>
       </provider>
     </entry>
