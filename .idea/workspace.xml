@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4fee7e0d-f5a7-4597-aaa2-5ba3ee96d30b" name="Default" comment="egzamin">
-      <change afterPath="$PROJECT_DIR$/images/html/form-final.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/html/invoice.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-09-20-html.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-09-20-html.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -33,14 +30,15 @@
     <session id="1139907847">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="2" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -58,13 +56,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="135" />
-          <entry key="md" value="769" />
+          <entry key="md" value="778" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="135" />
-          <entry key="PLAIN_TEXT" value="769" />
+          <entry key="PLAIN_TEXT" value="778" />
         </counts>
       </usages-collector>
     </session>
@@ -83,8 +81,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2018-09-20-html.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="424">
-              <caret line="103" column="36" selection-start-line="103" selection-start-column="36" selection-end-line="103" selection-end-column="36" />
+            <state relative-caret-position="364">
+              <caret line="130" column="31" selection-start-line="130" selection-start-column="31" selection-end-line="130" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -201,10 +199,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 7.1" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="307" />
+    <option name="x" value="992" />
     <option name="y" value="-4" />
-    <option name="width" value="1613" />
-    <option name="height" value="1046" />
+    <option name="width" value="928" />
+    <option name="height" value="1084" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -232,6 +230,11 @@
               <item name="aplikacje" type="b2602c69:ProjectViewProjectNode" />
               <item name="aplikacje" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aplikacje" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aplikacje" type="462c0819:PsiDirectoryNode" />
+              <item name="egzamin" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="aplikacje" type="b2602c69:ProjectViewProjectNode" />
@@ -292,7 +295,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Unknown.formularz.php649985212">
+  <component name="RunManager" selected="Unknown.formularz.php1612266744">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
@@ -511,20 +514,6 @@
       <workItem from="1526553626628" duration="4000" />
       <workItem from="1526995004936" duration="583000" />
       <workItem from="1530254310406" duration="3000" />
-    </task>
-    <task id="LOCAL-00151" summary="egzamin">
-      <created>1509979314448</created>
-      <option name="number" value="00151" />
-      <option name="presentableId" value="LOCAL-00151" />
-      <option name="project" value="LOCAL" />
-      <updated>1509979314448</updated>
-    </task>
-    <task id="LOCAL-00152" summary="egzamin">
-      <created>1509992562877</created>
-      <option name="number" value="00152" />
-      <option name="presentableId" value="LOCAL-00152" />
-      <option name="project" value="LOCAL" />
-      <updated>1509992562881</updated>
     </task>
     <task id="LOCAL-00153" summary="egzamin">
       <created>1509992665892</created>
@@ -855,16 +844,31 @@
       <option name="project" value="LOCAL" />
       <updated>1539952742939</updated>
     </task>
-    <option name="localTasksCounter" value="200" />
+    <task id="LOCAL-00200" summary="egzamin">
+      <created>1540479317623</created>
+      <option name="number" value="00200" />
+      <option name="presentableId" value="LOCAL-00200" />
+      <option name="project" value="LOCAL" />
+      <updated>1540479317623</updated>
+    </task>
+    <task id="LOCAL-00201" summary="egzamin">
+      <created>1540479364402</created>
+      <option name="number" value="00201" />
+      <option name="presentableId" value="LOCAL-00201" />
+      <option name="project" value="LOCAL" />
+      <updated>1540479364402</updated>
+    </task>
+    <option name="localTasksCounter" value="202" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="239924000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
+    <frame x="64" y="11" width="1617" height="1062" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.4151465" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.4206501" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -877,7 +881,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.33995816" />
+      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.3401728" />
       <window_info anchor="bottom" id="Messages" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32903227" />
       <window_info anchor="bottom" id="Docker" order="11" weight="0.320296" />
@@ -992,8 +996,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-09-20-html.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="424">
-          <caret line="103" column="36" selection-start-line="103" selection-start-column="36" selection-end-line="103" selection-end-column="36" />
+        <state relative-caret-position="364">
+          <caret line="130" column="31" selection-start-line="130" selection-start-column="31" selection-end-line="130" selection-end-column="31" />
         </state>
       </provider>
     </entry>
