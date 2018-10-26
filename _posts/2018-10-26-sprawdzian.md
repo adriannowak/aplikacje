@@ -23,6 +23,8 @@ Wykorzystaj znaczniki:
 5. Pole typu input z dataset
 6. textarea
 
+Do kontrolek dołącz etykiety (label)
+
  ![Zadanie](/images/html/sprawdzian2.png)
 
 
