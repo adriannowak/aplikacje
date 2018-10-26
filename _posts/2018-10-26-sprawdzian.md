@@ -10,7 +10,7 @@ layout: post
 Wykorzystaj znaczniki:
  - h1, h5
  - font
- -b
+ - b
 
  ![Zadanie](/images/html/sprawdzian.png)
 
