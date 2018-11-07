@@ -1,6 +1,7 @@
 # T1
 - color
 - background-color
+- http://blog.devslopes.com/p/957702b0-1348-4240-8083-a5fee8fd9751/
 - https://www.w3schools.com/css/exercise.asp?filename=exercise_background1 
 - http://interactivepython.org/runestone/static/webfundamentals/CSS/exercises.html
 - https://www.w3schools.com/css/css_grid.asp
