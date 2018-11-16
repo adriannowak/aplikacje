@@ -28,3 +28,8 @@ Do kontrolek dołącz etykiety (label)
  ![Zadanie](/images/html/sprawdzian2.png)
 
 
+
+## Egzamin 2
+
+![Foto](http://wandererapp.co/wp-content/uploads/2018/06/retail-invoice-template-sample-example-format-download-sheet-table-html.jpg)
+
