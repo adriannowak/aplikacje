@@ -1,5 +1,5 @@
 ---
-title: Sprawdzian (1)
+title: Sprawdzian
 layout: post
 ---
 
