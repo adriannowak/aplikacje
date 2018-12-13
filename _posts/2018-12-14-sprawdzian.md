@@ -8,6 +8,7 @@ layout: post
 
     1. Jakie są sposoby wstawiania arkusza CSS? Podaj fragmenty kodu
     2. Podaj fragment kodu CSS, który zmodyfikuje kolor tekstu:
+
     ```html
         <ol>
             <li class="default">Normalny tekst</li>
