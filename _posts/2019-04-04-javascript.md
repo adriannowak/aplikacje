@@ -5,6 +5,7 @@ layout: post
 
 
 ### Materiały
+ - [Test](http://egzamin-e14.blogspot.com/search/label/JavaScript)
  - [dokumentacja MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
  - [dokumentacja speakingjs](http://speakingjs.com/es5/index.html)
  - [kurs JS](http://shebang.pl/kursy/wszystko-jasne/)
